@@ -6,7 +6,10 @@ public class Enemy : MonoBehaviour
 {
     NavMeshAgent _agent;
     [SerializeField] float moveRange = 5f; // 이동할 수 있는 랜덤 범위
-
+    
+    Vector2 _lookDir = Vector2.up;
+    public FieldOfView fov;
+    
     void Awake()
     {
         _agent = GetComponent<NavMeshAgent>();
@@ -21,6 +24,8 @@ public class Enemy : MonoBehaviour
         {
             _agent.SetDestination(MakeDestination());
         }
+        
+        UpdateLookDirection();
     }
 
     Vector3 MakeDestination()
@@ -38,6 +43,19 @@ public class Enemy : MonoBehaviour
         }
         
         // 새로운 목적지 계산
-        return transform.position;;
+        return transform.position;
+    }
+    
+    void UpdateLookDirection()
+    {
+        Vector3 velocity = _agent.velocity;
+
+        if (velocity.sqrMagnitude < 0.01f)
+            return;
+
+        _lookDir = velocity.normalized;
+        
+        if (fov != null)
+            fov.SetDirection(_lookDir);
     }
 }

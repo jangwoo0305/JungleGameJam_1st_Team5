@@ -8,8 +8,8 @@ using UnityEditor;
 public class FieldOfView : MonoBehaviour
 {
     [Range(0, 360)] public float fov = 90f;       // 시야각
-    public int rayCount = 90;                     // 시야 시각화 레이 수
-    public float viewDistance = 5f;               // 시야 거리
+    public int rayCount = 300;                     // 시야 시각화 레이 수
+    public float viewDistance = 1.5f;               // 시야 거리
 
     public LayerMask targetLayerMask;             // Player가 속한 레이어
     public LayerMask wallLayerMask;               // 벽 레이어

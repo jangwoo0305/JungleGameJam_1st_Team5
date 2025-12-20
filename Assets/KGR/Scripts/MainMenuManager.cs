@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
+// using UnityEngine.UI;
 
 /// <summary>
 /// 메인 메뉴 씬을 관리하는 스크립트
@@ -9,8 +9,8 @@ using UnityEngine.UI;
 public class MainMenuManager : MonoBehaviour
 {
     [Header("UI References")]
-    [SerializeField] private Button playButton;
-    [SerializeField] private Button scoreButton;
+    // [SerializeField] private Button playButton;
+    // [SerializeField] private Button scoreButton;
     
     [Header("Scene Settings")]
     [SerializeField] private string gameSceneName = "SampleScene"; // 게임 씬 이름
@@ -18,37 +18,37 @@ public class MainMenuManager : MonoBehaviour
     private void Start()
     {
         // 버튼 이벤트 연결
-        if (playButton != null)
-        {
-            playButton.onClick.AddListener(OnPlayButtonClicked);
-        }
-        else
-        {
-            Debug.LogWarning("PlayButton이 할당되지 않았습니다!");
-        }
+        // if (playButton != null)
+        // {
+        //     playButton.onClick.AddListener(OnPlayButtonClicked);
+        // }
+        // else
+        // {
+        //     Debug.LogWarning("PlayButton이 할당되지 않았습니다!");
+        // }
         
-        if (scoreButton != null)
-        {
-            scoreButton.onClick.AddListener(OnScoreButtonClicked);
-        }
-        else
-        {
-            Debug.LogWarning("ScoreButton이 할당되지 않았습니다!");
-        }
+        // if (scoreButton != null)
+        // {
+        //     scoreButton.onClick.AddListener(OnScoreButtonClicked);
+        // }
+        // else
+        // {
+        //     Debug.LogWarning("ScoreButton이 할당되지 않았습니다!");
+        // }
     }
     
     private void OnDestroy()
     {
         // 메모리 누수 방지: 이벤트 해제
-        if (playButton != null)
-        {
-            playButton.onClick.RemoveListener(OnPlayButtonClicked);
-        }
-        
-        if (scoreButton != null)
-        {
-            scoreButton.onClick.RemoveListener(OnScoreButtonClicked);
-        }
+        // if (playButton != null)
+        // {
+        //     playButton.onClick.RemoveListener(OnPlayButtonClicked);
+        // }
+        //
+        // if (scoreButton != null)
+        // {
+        //     scoreButton.onClick.RemoveListener(OnScoreButtonClicked);
+        // }
     }
     
     /// <summary>

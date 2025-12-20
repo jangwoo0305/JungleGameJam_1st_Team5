@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.h8man.2d.navmeshplus": {
-      "version": "https://github.com/h8man/NavMeshPlus.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "b9abbd9c6304f502d83517e4e51b09054c8b9e0e"
     "com.coplaydev.unity-mcp": {
       "version": "https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity",
       "depth": 0,
@@ -14,6 +8,13 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       },
       "hash": "df906cb7477f9d9e4db04baa7b621284a9ba494e"
+    },
+    "com.h8man.2d.navmeshplus": {
+      "version": "https://github.com/h8man/NavMeshPlus.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b9abbd9c6304f502d83517e4e51b09054c8b9e0e"
     },
     "com.unity.2d.animation": {
       "version": "10.2.2",

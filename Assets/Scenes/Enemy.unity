@@ -244,7 +244,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveRange: 7
-  _fov: {fileID: 407552739}
+  fov: {fileID: 407552739}
 --- !u!1 &172240304
 GameObject:
   m_ObjectHideFlags: 0

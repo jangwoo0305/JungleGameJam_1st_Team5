@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: a3e5da311c0bfda428328ad07946a0d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1302853487130900003
+    second: SantaGift_0
+  - first:
+      213: 4835828686183712979
+    second: SantaGift_1
+  - first:
+      213: 4047558251772587678
+    second: SantaGift_2
+  - first:
+      213: 6669038955496453862
+    second: SantaGift_3
+  - first:
+      213: -3455054616298048234
+    second: SantaGift_4
+  - first:
+      213: 2713366680124021091
+    second: SantaGift_5
+  - first:
+      213: -1877589915309565000
+    second: SantaGift_6
+  - first:
+      213: -6307255463583781445
+    second: SantaGift_7
+  - first:
+      213: 9102761384765172485
+    second: SantaGift_8
+  - first:
+      213: 5429558771555294139
+    second: SantaGift_9
+  - first:
+      213: -5925951080538565124
+    second: SantaGift_10
+  - first:
+      213: 921538440487025152
+    second: SantaGift_11
+  - first:
+      213: 4070887709085253259
+    second: SantaGift_12
+  - first:
+      213: -3026895426768809710
+    second: SantaGift_13
+  - first:
+      213: -4772578198097701558
+    second: SantaGift_14
+  - first:
+      213: -8105069656703861794
+    second: SantaGift_15
+  - first:
+      213: -7792492359990045533
+    second: SantaGift_16
+  - first:
+      213: -2026690483557518307
+    second: SantaGift_17
+  - first:
+      213: 2065854744159158775
+    second: SantaGift_18
+  - first:
+      213: 2362398183955752351
+    second: SantaGift_19
+  - first:
+      213: -6014372654393658864
+    second: SantaGift_20
+  - first:
+      213: -7208185101214393272
+    second: SantaGift_21
+  - first:
+      213: 2250945881365709155
+    second: SantaGift_22
+  - first:
+      213: -4865892859936506667
+    second: SantaGift_23
+  - first:
+      213: -7417339189072568978
+    second: SantaGift_24
+  - first:
+      213: -1570831606209041994
+    second: SantaGift_25
+  - first:
+      213: 5804825418984210962
+    second: SantaGift_26
+  - first:
+      213: 1278842857285014291
+    second: SantaGift_27
+  - first:
+      213: -1565246793062129720
+    second: SantaGift_28
+  - first:
+      213: -5543435130224933020
+    second: SantaGift_29
+  - first:
+      213: 707468596929854290
+    second: SantaGift_30
+  - first:
+      213: 6181682767116765476
+    second: SantaGift_31
+  - first:
+      213: 1239040299126570772
+    second: SantaGift_32
+  - first:
+      213: 7557951646408540732
+    second: SantaGift_33
+  - first:
+      213: -7806886639118670796
+    second: SantaGift_34
+  - first:
+      213: -3473508189891248841
+    second: SantaGift_35
+  - first:
+      213: 1018290046128308166
+    second: SantaGift_36
+  - first:
+      213: 8118172437198070270
+    second: SantaGift_37
+  - first:
+      213: -7544003035485935547
+    second: SantaGift_38
+  - first:
+      213: 3057274508411459530
+    second: SantaGift_39
+  - first:
+      213: -6342084979642393739
+    second: SantaGift_40
+  - first:
+      213: 9041774623516191600
+    second: SantaGift_41
+  - first:
+      213: 4855053208427925805
+    second: SantaGift_42
+  - first:
+      213: -7049649823488808868
+    second: SantaGift_43
+  - first:
+      213: 7487971903872088831
+    second: SantaGift_44
+  - first:
+      213: 6076023809488544550
+    second: SantaGift_45
+  - first:
+      213: -9193763456403189502
+    second: SantaGift_46
+  - first:
+      213: 4500601496594782139
+    second: SantaGift_47
+  - first:
+      213: -3299536464583432710
+    second: SantaGift_48
+  - first:
+      213: -3764339738708175411
+    second: SantaGift_49
+  - first:
+      213: -5646085491238955658
+    second: SantaGift_50
+  - first:
+      213: -3034226184640534827
+    second: SantaGift_51
+  - first:
+      213: 7177275624442596272
+    second: SantaGift_52
+  - first:
+      213: 2708073072486807066
+    second: SantaGift_53
+  - first:
+      213: -783010265461160507
+    second: SantaGift_54
+  - first:
+      213: 2894254885031695172
+    second: SantaGift_55
+  - first:
+      213: 8082455571358171729
+    second: SantaGift_56
+  - first:
+      213: 6686862405005736857
+    second: SantaGift_57
+  - first:
+      213: 6874228009234193861
+    second: SantaGift_58
+  - first:
+      213: -7270925290860444786
+    second: SantaGift_59
+  - first:
+      213: 3803397356656019678
+    second: SantaGift_60
+  - first:
+      213: -2286639637544923973
+    second: SantaGift_61
+  - first:
+      213: -7930407711082003901
+    second: SantaGift_62
+  - first:
+      213: -3093889274460311420
+    second: SantaGift_63
+  - first:
+      213: 2021928237214198177
+    second: SantaGift_64
+  - first:
+      213: 8952385948132312775
+    second: SantaGift_65
+  - first:
+      213: 3321351186578495736
+    second: SantaGift_66
+  - first:
+      213: -499740108786949561
+    second: SantaGift_67
+  - first:
+      213: -7829690096027996215
+    second: SantaGift_68
+  - first:
+      213: 6568298253384455370
+    second: SantaGift_69
+  - first:
+      213: 4270673454693669925
+    second: SantaGift_70
+  - first:
+      213: 3727753915671303691
+    second: SantaGift_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SantaGift_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f0def75aa41210800000000000000
+      internalID: 1302853487130900003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 107
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8cf9a91905c1340800000000000000
+      internalID: 4835828686183712979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e2b9cf8c0db2830800000000000000
+      internalID: 4047558251772587678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6bb9f889f2d8c50800000000000000
+      internalID: 6669038955496453862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 107
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6153bf3d12e2d00d0800000000000000
+      internalID: -3455054616298048234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3695c2a9e90d7a520800000000000000
+      internalID: 2713366680124021091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb1e108be571f5e0800000000000000
+      internalID: -1877589915309565000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd6279b2902878a0800000000000000
+      internalID: -6307255463583781445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b221e3041835e70800000000000000
+      internalID: 9102761384765172485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbd8a98feaa95b40800000000000000
+      internalID: 5429558771555294139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf51828a3eac2cda0800000000000000
+      internalID: -5925951080538565124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab8104456f9cc00800000000000000
+      internalID: 921538440487025152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb78c8dc2be7830800000000000000
+      internalID: 4070887709085253259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d03385ae4ef5d0800000000000000
+      internalID: -3026895426768809710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 107
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45dc9f3a6564cdb0800000000000000
+      internalID: -4772578198097701558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 107
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb7e58f612058f80800000000000000
+      internalID: -8105069656703861794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 107
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a419d72c718bd390800000000000000
+      internalID: -7792492359990045533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_17
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 107
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b3e93ebfbfd3e0800000000000000
+      internalID: -2026690483557518307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18927c1f36bac10800000000000000
+      internalID: 2065854744159158775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e5bcb1ace8c020800000000000000
+      internalID: 2362398183955752351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012fa04bfe7a88ca0800000000000000
+      internalID: -6014372654393658864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 75
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5ade47d167fb90800000000000000
+      internalID: -7208185101214393272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 75
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618e636a57fc3f10800000000000000
+      internalID: 2250945881365709155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcff587930e87cb0800000000000000
+      internalID: -4865892859936506667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ddeb86e41501990800000000000000
+      internalID: -7417339189072568978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b924fd0af8433ae0800000000000000
+      internalID: -1570831606209041994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21246b996f1ee8050800000000000000
+      internalID: 5804825418984210962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313d4089dcc5fb110800000000000000
+      internalID: 1278842857285014291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf56b1b550274ae0800000000000000
+      internalID: -1565246793062129720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46785839e13c113b0800000000000000
+      internalID: -5543435130224933020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b7fb9c0fe61d900800000000000000
+      internalID: 707468596929854290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 75
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429062889bfb9c550800000000000000
+      internalID: 6181682767116765476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 75
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f35db5694f13110800000000000000
+      internalID: 1239040299126570772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 75
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3282c98afc33e860800000000000000
+      internalID: 7557951646408540732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 75
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a691e6fd58a390800000000000000
+      internalID: -7806886639118670796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3f1964be9bcfc0800000000000000
+      internalID: -3473508189891248841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf3bcdd661b12e00800000000000000
+      internalID: 1018290046128308166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ee88d1da89a070800000000000000
+      internalID: 8118172437198070270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 44
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548646585315e4790800000000000000
+      internalID: -7544003035485935547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d8be97fe9d6a20800000000000000
+      internalID: 3057274508411459530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b131510536cf7a0800000000000000
+      internalID: -6342084979642393739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be2dd5d16da7d70800000000000000
+      internalID: 9041774623516191600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2197fd7b2d906340800000000000000
+      internalID: 4855053208427925805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ed0016dc9a2e90800000000000000
+      internalID: -7049649823488808868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffab66a06ce9ae760800000000000000
+      internalID: 7487971903872088831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623616b667f525450800000000000000
+      internalID: 6076023809488544550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201de18d8d0396080800000000000000
+      internalID: -9193763456403189502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb79f184739557e30800000000000000
+      internalID: 4500601496594782139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af56e013111b532d0800000000000000
+      internalID: -3299536464583432710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59964b3f062cbc0800000000000000
+      internalID: -3764339738708175411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 44
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751733f82315a1b0800000000000000
+      internalID: -5646085491238955658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_51
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 44
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ef407c5344e5d0800000000000000
+      internalID: -3034226184640534827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 44
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb88f1572eca9360800000000000000
+      internalID: 7177275624442596272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_53
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 44
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1670678c12059520800000000000000
+      internalID: 2708073072486807066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c504b7ef403225f0800000000000000
+      internalID: -783010265461160507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d0c7cb757a2820800000000000000
+      internalID: 2894254885031695172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1524eabf486aa2070800000000000000
+      internalID: 8082455571358171729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf748cde18ccc50800000000000000
+      internalID: 6686862405005736857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd17304f9266f50800000000000000
+      internalID: 6874228009234193861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e830cd198fb781b90800000000000000
+      internalID: -7270925290860444786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8442f9eb168c430800000000000000
+      internalID: 3803397356656019678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8ec26d593440e0800000000000000
+      internalID: -2286639637544923973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_62
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34240f0343881f190800000000000000
+      internalID: -7930407711082003901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_63
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f665d81c4015d0800000000000000
+      internalID: -3093889274460311420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9eb74e4055f0c10800000000000000
+      internalID: 2021928237214198177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c600aa86934d3c70800000000000000
+      internalID: 8952385948132312775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f855529e4fc71e20800000000000000
+      internalID: 3321351186578495736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_67
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422dbfc4019019f0800000000000000
+      internalID: -499740108786949561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_68
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 12
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6bd4575a575390800000000000000
+      internalID: -7829690096027996215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_69
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49ccb0678472b50800000000000000
+      internalID: 6568298253384455370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_70
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 12
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd4ba41ea744b30800000000000000
+      internalID: 4270673454693669925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaGift_71
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d8a19f64abb330800000000000000
+      internalID: 3727753915671303691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SantaGift_0: 1302853487130900003
+      SantaGift_1: 4835828686183712979
+      SantaGift_10: -5925951080538565124
+      SantaGift_11: 921538440487025152
+      SantaGift_12: 4070887709085253259
+      SantaGift_13: -3026895426768809710
+      SantaGift_14: -4772578198097701558
+      SantaGift_15: -8105069656703861794
+      SantaGift_16: -7792492359990045533
+      SantaGift_17: -2026690483557518307
+      SantaGift_18: 2065854744159158775
+      SantaGift_19: 2362398183955752351
+      SantaGift_2: 4047558251772587678
+      SantaGift_20: -6014372654393658864
+      SantaGift_21: -7208185101214393272
+      SantaGift_22: 2250945881365709155
+      SantaGift_23: -4865892859936506667
+      SantaGift_24: -7417339189072568978
+      SantaGift_25: -1570831606209041994
+      SantaGift_26: 5804825418984210962
+      SantaGift_27: 1278842857285014291
+      SantaGift_28: -1565246793062129720
+      SantaGift_29: -5543435130224933020
+      SantaGift_3: 6669038955496453862
+      SantaGift_30: 707468596929854290
+      SantaGift_31: 6181682767116765476
+      SantaGift_32: 1239040299126570772
+      SantaGift_33: 7557951646408540732
+      SantaGift_34: -7806886639118670796
+      SantaGift_35: -3473508189891248841
+      SantaGift_36: 1018290046128308166
+      SantaGift_37: 8118172437198070270
+      SantaGift_38: -7544003035485935547
+      SantaGift_39: 3057274508411459530
+      SantaGift_4: -3455054616298048234
+      SantaGift_40: -6342084979642393739
+      SantaGift_41: 9041774623516191600
+      SantaGift_42: 4855053208427925805
+      SantaGift_43: -7049649823488808868
+      SantaGift_44: 7487971903872088831
+      SantaGift_45: 6076023809488544550
+      SantaGift_46: -9193763456403189502
+      SantaGift_47: 4500601496594782139
+      SantaGift_48: -3299536464583432710
+      SantaGift_49: -3764339738708175411
+      SantaGift_5: 2713366680124021091
+      SantaGift_50: -5646085491238955658
+      SantaGift_51: -3034226184640534827
+      SantaGift_52: 7177275624442596272
+      SantaGift_53: 2708073072486807066
+      SantaGift_54: -783010265461160507
+      SantaGift_55: 2894254885031695172
+      SantaGift_56: 8082455571358171729
+      SantaGift_57: 6686862405005736857
+      SantaGift_58: 6874228009234193861
+      SantaGift_59: -7270925290860444786
+      SantaGift_6: -1877589915309565000
+      SantaGift_60: 3803397356656019678
+      SantaGift_61: -2286639637544923973
+      SantaGift_62: -7930407711082003901
+      SantaGift_63: -3093889274460311420
+      SantaGift_64: 2021928237214198177
+      SantaGift_65: 8952385948132312775
+      SantaGift_66: 3321351186578495736
+      SantaGift_67: -499740108786949561
+      SantaGift_68: -7829690096027996215
+      SantaGift_69: 6568298253384455370
+      SantaGift_7: -6307255463583781445
+      SantaGift_70: 4270673454693669925
+      SantaGift_71: 3727753915671303691
+      SantaGift_8: 9102761384765172485
+      SantaGift_9: 5429558771555294139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

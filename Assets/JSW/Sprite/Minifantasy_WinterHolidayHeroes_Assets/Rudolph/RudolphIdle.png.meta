@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 35152f21467e2754ab10bbfea482bd02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2556327224201766130
+    second: RudolphIdle_0
+  - first:
+      213: 5562049481955366476
+    second: RudolphIdle_1
+  - first:
+      213: 1162127367034876078
+    second: RudolphIdle_2
+  - first:
+      213: -2857388669400598748
+    second: RudolphIdle_3
+  - first:
+      213: -3252407865700802022
+    second: RudolphIdle_4
+  - first:
+      213: 2539339439310081353
+    second: RudolphIdle_5
+  - first:
+      213: -1667241432755986409
+    second: RudolphIdle_6
+  - first:
+      213: 2153092548403428189
+    second: RudolphIdle_7
+  - first:
+      213: 8291232228032747483
+    second: RudolphIdle_8
+  - first:
+      213: -1661128758312938325
+    second: RudolphIdle_9
+  - first:
+      213: -2316960130834420806
+    second: RudolphIdle_10
+  - first:
+      213: 1493253490894208416
+    second: RudolphIdle_11
+  - first:
+      213: 4887220424822267299
+    second: RudolphIdle_12
+  - first:
+      213: -2618369178690844
+    second: RudolphIdle_13
+  - first:
+      213: -1643986156352839491
+    second: RudolphIdle_14
+  - first:
+      213: 4384602653741028373
+    second: RudolphIdle_15
+  - first:
+      213: 2619113889942403632
+    second: RudolphIdle_16
+  - first:
+      213: 7279511214862217271
+    second: RudolphIdle_17
+  - first:
+      213: 3760186610734916151
+    second: RudolphIdle_18
+  - first:
+      213: 5986312826718085471
+    second: RudolphIdle_19
+  - first:
+      213: -4550717281449304314
+    second: RudolphIdle_20
+  - first:
+      213: 8694876560241265427
+    second: RudolphIdle_21
+  - first:
+      213: -1924934223637368861
+    second: RudolphIdle_22
+  - first:
+      213: -1185271865430340942
+    second: RudolphIdle_23
+  - first:
+      213: -3662125940395344093
+    second: RudolphIdle_24
+  - first:
+      213: -1593908188085441253
+    second: RudolphIdle_25
+  - first:
+      213: 8641086531060932116
+    second: RudolphIdle_26
+  - first:
+      213: -6925179168141489507
+    second: RudolphIdle_27
+  - first:
+      213: -1789682807866303722
+    second: RudolphIdle_28
+  - first:
+      213: 8534261119100221879
+    second: RudolphIdle_29
+  - first:
+      213: 7995499454337327920
+    second: RudolphIdle_30
+  - first:
+      213: -3844512965870267281
+    second: RudolphIdle_31
+  - first:
+      213: -3624542527448658020
+    second: RudolphIdle_32
+  - first:
+      213: 7459951107861683172
+    second: RudolphIdle_33
+  - first:
+      213: 4844848334479703975
+    second: RudolphIdle_34
+  - first:
+      213: 9146276998560159898
+    second: RudolphIdle_35
+  - first:
+      213: -5442687690804433020
+    second: RudolphIdle_36
+  - first:
+      213: -2083504048606744939
+    second: RudolphIdle_37
+  - first:
+      213: 65662810579418243
+    second: RudolphIdle_38
+  - first:
+      213: 3847560281676995602
+    second: RudolphIdle_39
+  - first:
+      213: 1493540484970793109
+    second: RudolphIdle_40
+  - first:
+      213: -3018169777583525756
+    second: RudolphIdle_41
+  - first:
+      213: 4245605315032867649
+    second: RudolphIdle_42
+  - first:
+      213: -830090521459601290
+    second: RudolphIdle_43
+  - first:
+      213: -1577155155745703235
+    second: RudolphIdle_44
+  - first:
+      213: 3255844727480168003
+    second: RudolphIdle_45
+  - first:
+      213: 4571363840098409262
+    second: RudolphIdle_46
+  - first:
+      213: -2887397264259857089
+    second: RudolphIdle_47
+  - first:
+      213: -1498330876174014161
+    second: RudolphIdle_48
+  - first:
+      213: -4474280285399289933
+    second: RudolphIdle_49
+  - first:
+      213: 7528135958599846660
+    second: RudolphIdle_50
+  - first:
+      213: 4539605878544370957
+    second: RudolphIdle_51
+  - first:
+      213: -5933801295389394479
+    second: RudolphIdle_52
+  - first:
+      213: 7318968254662313840
+    second: RudolphIdle_53
+  - first:
+      213: 1505971445129626608
+    second: RudolphIdle_54
+  - first:
+      213: -4403393510975614378
+    second: RudolphIdle_55
+  - first:
+      213: -4405138068537695400
+    second: RudolphIdle_56
+  - first:
+      213: -1228359610881355697
+    second: RudolphIdle_57
+  - first:
+      213: 51481522641428760
+    second: RudolphIdle_58
+  - first:
+      213: -206940922217734865
+    second: RudolphIdle_59
+  - first:
+      213: -2973837678147600655
+    second: RudolphIdle_60
+  - first:
+      213: -223339176542525349
+    second: RudolphIdle_61
+  - first:
+      213: -7110282189521714762
+    second: RudolphIdle_62
+  - first:
+      213: -3097517558417766909
+    second: RudolphIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RudolphIdle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b1bcffee9168cd0800000000000000
+      internalID: -2556327224201766130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46581be88e503d40800000000000000
+      internalID: 5562049481955366476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0bfdfdea4b02010800000000000000
+      internalID: 1162127367034876078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427b62fe4248858d0800000000000000
+      internalID: -2857388669400598748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12a73437402dd2d0800000000000000
+      internalID: -3252407865700802022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d873c14cb8d3320800000000000000
+      internalID: 2539339439310081353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71024c510c4ccd8e0800000000000000
+      internalID: -1667241432755986409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b7024e34251ed10800000000000000
+      internalID: 2153092548403428189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7992658cf501370800000000000000
+      internalID: 8291232228032747483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba45292023c72f8e0800000000000000
+      internalID: -1661128758312938325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb2fda690188dfd0800000000000000
+      internalID: -2316960130834420806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad7c5c632a19b410800000000000000
+      internalID: 1493253490894208416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad90903515e2d340800000000000000
+      internalID: 4887220424822267299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea963b6b92b6fff0800000000000000
+      internalID: -2618369178690844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0edee0d436f29e0800000000000000
+      internalID: -1643986156352839491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514187902ec39dc30800000000000000
+      internalID: 4384602653741028373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03afe4cc436f85420800000000000000
+      internalID: 2619113889942403632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b554a1e4060560800000000000000
+      internalID: 7279511214862217271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732e806dccdde2430800000000000000
+      internalID: 3760186610734916151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5165ee8cc7a31350800000000000000
+      internalID: 5986312826718085471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f9bf54eba98d0c0800000000000000
+      internalID: -4550717281449304314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0d030a286aa870800000000000000
+      internalID: 8694876560241265427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2a18b5824945e0800000000000000
+      internalID: -1924934223637368861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba82caa4811d8fe0800000000000000
+      internalID: -1185271865430340942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ffdf72cd38d2dc0800000000000000
+      internalID: -3662125940395344093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da494a2fc41e9e0800000000000000
+      internalID: -1593908188085441253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e9c45ea6e4be770800000000000000
+      internalID: 8641086531060932116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9acdfcdc32d4ef90800000000000000
+      internalID: -6925179168141489507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5188e7f4c927e0800000000000000
+      internalID: -1789682807866303722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b975687549cf6670800000000000000
+      internalID: 8534261119100221879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332b994468b5fe60800000000000000
+      internalID: 7995499454337327920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f645bee93db85aac0800000000000000
+      internalID: -3844512965870267281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f402266c903bdc0800000000000000
+      internalID: -3624542527448658020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb90e11202178760800000000000000
+      internalID: 7459951107861683172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3e4f14eb5c3340800000000000000
+      internalID: 4844848334479703975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98118c987a1eee70800000000000000
+      internalID: 9146276998560159898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe53eb160b774b0800000000000000
+      internalID: -5442687690804433020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee4be4b18e513e0800000000000000
+      internalID: -2083504048606744939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3a837af749e000800000000000000
+      internalID: 65662810579418243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c5241e0b7456530800000000000000
+      internalID: 3847560281676995602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984950782f1ab410800000000000000
+      internalID: 1493540484970793109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4807057049e4d16d0800000000000000
+      internalID: -3018169777583525756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436b033a8b6bea30800000000000000
+      internalID: 4245605315032867649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705bf8911dea74f0800000000000000
+      internalID: -830090521459601290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf912fdb1dc1ae0800000000000000
+      internalID: -1577155155745703235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ea84987851f2d20800000000000000
+      internalID: 3255844727480168003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b9124413fb07f30800000000000000
+      internalID: 4571363840098409262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f354b5a7c77ede7d0800000000000000
+      internalID: -2887397264259857089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29e5a1b10cd43be0800000000000000
+      internalID: -1498330876174014161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfed3349c928e1c0800000000000000
+      internalID: -4474280285399289933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b4031c4cf497860800000000000000
+      internalID: 7528135958599846660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d89e2ae7beffe30800000000000000
+      internalID: 4539605878544370957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9ff841927e6ada0800000000000000
+      internalID: -5933801295389394479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077028d99d2329560800000000000000
+      internalID: 7318968254662313840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f345d4ec0946e410800000000000000
+      internalID: 1505971445129626608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d9049ee004e2c0800000000000000
+      internalID: -4403393510975614378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a24e144ecdd2c0800000000000000
+      internalID: -4405138068537695400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40daf8217df3fee0800000000000000
+      internalID: -1228359610881355697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e98d0c26e6b000800000000000000
+      internalID: 51481522641428760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d58b1e35cc02df0800000000000000
+      internalID: -206940922217734865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fef656436ecab6d0800000000000000
+      internalID: -2973837678147600655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5821c5c33a86ecf0800000000000000
+      internalID: -223339176542525349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b185c04504335d90800000000000000
+      internalID: -7110282189521714762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphIdle_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30649f421386305d0800000000000000
+      internalID: -3097517558417766909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RudolphIdle_0: -2556327224201766130
+      RudolphIdle_1: 5562049481955366476
+      RudolphIdle_10: -2316960130834420806
+      RudolphIdle_11: 1493253490894208416
+      RudolphIdle_12: 4887220424822267299
+      RudolphIdle_13: -2618369178690844
+      RudolphIdle_14: -1643986156352839491
+      RudolphIdle_15: 4384602653741028373
+      RudolphIdle_16: 2619113889942403632
+      RudolphIdle_17: 7279511214862217271
+      RudolphIdle_18: 3760186610734916151
+      RudolphIdle_19: 5986312826718085471
+      RudolphIdle_2: 1162127367034876078
+      RudolphIdle_20: -4550717281449304314
+      RudolphIdle_21: 8694876560241265427
+      RudolphIdle_22: -1924934223637368861
+      RudolphIdle_23: -1185271865430340942
+      RudolphIdle_24: -3662125940395344093
+      RudolphIdle_25: -1593908188085441253
+      RudolphIdle_26: 8641086531060932116
+      RudolphIdle_27: -6925179168141489507
+      RudolphIdle_28: -1789682807866303722
+      RudolphIdle_29: 8534261119100221879
+      RudolphIdle_3: -2857388669400598748
+      RudolphIdle_30: 7995499454337327920
+      RudolphIdle_31: -3844512965870267281
+      RudolphIdle_32: -3624542527448658020
+      RudolphIdle_33: 7459951107861683172
+      RudolphIdle_34: 4844848334479703975
+      RudolphIdle_35: 9146276998560159898
+      RudolphIdle_36: -5442687690804433020
+      RudolphIdle_37: -2083504048606744939
+      RudolphIdle_38: 65662810579418243
+      RudolphIdle_39: 3847560281676995602
+      RudolphIdle_4: -3252407865700802022
+      RudolphIdle_40: 1493540484970793109
+      RudolphIdle_41: -3018169777583525756
+      RudolphIdle_42: 4245605315032867649
+      RudolphIdle_43: -830090521459601290
+      RudolphIdle_44: -1577155155745703235
+      RudolphIdle_45: 3255844727480168003
+      RudolphIdle_46: 4571363840098409262
+      RudolphIdle_47: -2887397264259857089
+      RudolphIdle_48: -1498330876174014161
+      RudolphIdle_49: -4474280285399289933
+      RudolphIdle_5: 2539339439310081353
+      RudolphIdle_50: 7528135958599846660
+      RudolphIdle_51: 4539605878544370957
+      RudolphIdle_52: -5933801295389394479
+      RudolphIdle_53: 7318968254662313840
+      RudolphIdle_54: 1505971445129626608
+      RudolphIdle_55: -4403393510975614378
+      RudolphIdle_56: -4405138068537695400
+      RudolphIdle_57: -1228359610881355697
+      RudolphIdle_58: 51481522641428760
+      RudolphIdle_59: -206940922217734865
+      RudolphIdle_6: -1667241432755986409
+      RudolphIdle_60: -2973837678147600655
+      RudolphIdle_61: -223339176542525349
+      RudolphIdle_62: -7110282189521714762
+      RudolphIdle_63: -3097517558417766909
+      RudolphIdle_7: 2153092548403428189
+      RudolphIdle_8: 8291232228032747483
+      RudolphIdle_9: -1661128758312938325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

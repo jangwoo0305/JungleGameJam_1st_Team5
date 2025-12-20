@@ -7,10 +7,9 @@ using UnityEditor;
 [RequireComponent(typeof(MeshRenderer))]
 public class FieldOfView : MonoBehaviour
 {
-    [Range(0, 360)] public float fov = 70f;       // 시야각
-    public int rayCount = 300;                     // 시야 시각화 레이 수
-    public float viewDistance = 3f;               // 시야 거리
-    public float fovVisualizationDistance = 1f; // DrawFOV 시각화 거리
+    [Range(0, 360)] public float fov = 90f;       // 시야각
+    public int rayCount = 90;                     // 시야 시각화 레이 수
+    public float viewDistance = 5f;               // 시야 거리
 
     public LayerMask targetLayerMask;             // Player가 속한 레이어
     public LayerMask wallLayerMask;               // 벽 레이어
@@ -18,12 +17,6 @@ public class FieldOfView : MonoBehaviour
 
     private Mesh mesh;
     private Vector2 lookDir = Vector2.up;         // 바라보는 방향
-    private bool gameEnded = false;
-
-    Vector2 GetFOVOrigin()
-    {
-        return (Vector2)transform.position;
-    }
 
     void Start()
     {
@@ -36,11 +29,8 @@ public class FieldOfView : MonoBehaviour
 
     void LateUpdate()
     {
-        if (!gameEnded)
-        { 
-            DrawFOV();
-            CheckForTargets();
-        }
+        DrawFOV(); 
+        CheckForTargets();
     }
 
     // 외부에서 방향 세팅
@@ -71,9 +61,10 @@ public class FieldOfView : MonoBehaviour
             float angle = startAngle - angleStep * i;
             Vector3 dir = GetVectorFromAngle(angle);
 
-            RaycastHit2D wallHit = Physics2D.Raycast(origin, dir, fovVisualizationDistance, wallLayerMask);
-            float distance = wallHit.collider != null ? Mathf.Min(wallHit.distance, fovVisualizationDistance) : fovVisualizationDistance;
-            distance = Mathf.Max(0, distance - 0.02f);
+            // 벽 고려 레이
+            RaycastHit2D wallHit = Physics2D.Raycast(transform.position, dir, viewDistance, wallLayerMask);
+            float distance = (wallHit.collider != null) ? wallHit.distance : viewDistance;
+
             vertices[vertexIndex] = dir * distance;
 
             if (i > 0)
@@ -141,28 +132,7 @@ public class FieldOfView : MonoBehaviour
 
     void EndGame()
     {
-        if (gameEnded) return;
-        gameEnded = true;
-
-        Debug.Log("게임 종료: Player가 FOV 내에 감지됨!");
-        
-
-#if UNITY_EDITOR
-        
-        EditorApplication.isPlaying = false;
-#else
-        Application.Quit();
-#endif
+        enabled = false;
+        GameManager.Instance.EndGame();
     }
-
-#if UNITY_EDITOR
-    void OnDrawGizmosSelected()
-    {
-        Vector2 origin = Application.isPlaying ? GetFOVOrigin() : (Vector2)transform.position;
-
-        // 실제 감지 범위 표시
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(origin, viewDistance);
-    }
-#endif
 }

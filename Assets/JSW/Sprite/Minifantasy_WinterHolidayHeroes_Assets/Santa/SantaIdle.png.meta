@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: b46b8d7186f844648b568a798a257e3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4467216767598766265
+    second: SantaIdle_0
+  - first:
+      213: 1482802933949009271
+    second: SantaIdle_1
+  - first:
+      213: -5750390659373504460
+    second: SantaIdle_2
+  - first:
+      213: -3063637863555641551
+    second: SantaIdle_3
+  - first:
+      213: -2445031084826481676
+    second: SantaIdle_4
+  - first:
+      213: 9153457592071438511
+    second: SantaIdle_5
+  - first:
+      213: 8987718512452786145
+    second: SantaIdle_6
+  - first:
+      213: -3688468376694656743
+    second: SantaIdle_7
+  - first:
+      213: -8899998691938573664
+    second: SantaIdle_8
+  - first:
+      213: 7135052353644888286
+    second: SantaIdle_9
+  - first:
+      213: -872794720143915348
+    second: SantaIdle_10
+  - first:
+      213: -1966533854345128285
+    second: SantaIdle_11
+  - first:
+      213: -4806137579312468855
+    second: SantaIdle_12
+  - first:
+      213: 4233126232961763726
+    second: SantaIdle_13
+  - first:
+      213: -7772804437630551711
+    second: SantaIdle_14
+  - first:
+      213: -4797609069092202295
+    second: SantaIdle_15
+  - first:
+      213: 3327081054257767202
+    second: SantaIdle_16
+  - first:
+      213: 2898749341619208615
+    second: SantaIdle_17
+  - first:
+      213: 8876310322585087471
+    second: SantaIdle_18
+  - first:
+      213: 2063824185880454523
+    second: SantaIdle_19
+  - first:
+      213: -3034275317052113133
+    second: SantaIdle_20
+  - first:
+      213: -11926045457125593
+    second: SantaIdle_21
+  - first:
+      213: -3785175786064432355
+    second: SantaIdle_22
+  - first:
+      213: -4676710872052807197
+    second: SantaIdle_23
+  - first:
+      213: 178025154760099444
+    second: SantaIdle_24
+  - first:
+      213: 941938791805591001
+    second: SantaIdle_25
+  - first:
+      213: -3841809714861877768
+    second: SantaIdle_26
+  - first:
+      213: 5400404909369215324
+    second: SantaIdle_27
+  - first:
+      213: -6739653927842501446
+    second: SantaIdle_28
+  - first:
+      213: 8181879522554250638
+    second: SantaIdle_29
+  - first:
+      213: -6104502934322576789
+    second: SantaIdle_30
+  - first:
+      213: 980251177106277202
+    second: SantaIdle_31
+  - first:
+      213: 1462146654994038686
+    second: SantaIdle_32
+  - first:
+      213: -537712788895580406
+    second: SantaIdle_33
+  - first:
+      213: 6818023700179565525
+    second: SantaIdle_34
+  - first:
+      213: 9000103756207410324
+    second: SantaIdle_35
+  - first:
+      213: 7108923110600255138
+    second: SantaIdle_36
+  - first:
+      213: -5761238696209834441
+    second: SantaIdle_37
+  - first:
+      213: 4981377023059337567
+    second: SantaIdle_38
+  - first:
+      213: -3683248467788838741
+    second: SantaIdle_39
+  - first:
+      213: 4315614263215638207
+    second: SantaIdle_40
+  - first:
+      213: 5774937223385860702
+    second: SantaIdle_41
+  - first:
+      213: 4107749174880963053
+    second: SantaIdle_42
+  - first:
+      213: -4936464603038170396
+    second: SantaIdle_43
+  - first:
+      213: -5211022551457452989
+    second: SantaIdle_44
+  - first:
+      213: -4990135082269274580
+    second: SantaIdle_45
+  - first:
+      213: 8435447445859636739
+    second: SantaIdle_46
+  - first:
+      213: -908562843804667477
+    second: SantaIdle_47
+  - first:
+      213: -475042343697221732
+    second: SantaIdle_48
+  - first:
+      213: 9200841568032495970
+    second: SantaIdle_49
+  - first:
+      213: -2126171618120850988
+    second: SantaIdle_50
+  - first:
+      213: 2139334332987744369
+    second: SantaIdle_51
+  - first:
+      213: -4263034023627374171
+    second: SantaIdle_52
+  - first:
+      213: -8092350512036787140
+    second: SantaIdle_53
+  - first:
+      213: -6573740908149675423
+    second: SantaIdle_54
+  - first:
+      213: 4803046678495575098
+    second: SantaIdle_55
+  - first:
+      213: 2962377722407510166
+    second: SantaIdle_56
+  - first:
+      213: -5858332681995365408
+    second: SantaIdle_57
+  - first:
+      213: 2551972984043868691
+    second: SantaIdle_58
+  - first:
+      213: -8970372834626346213
+    second: SantaIdle_59
+  - first:
+      213: 2050538586110378596
+    second: SantaIdle_60
+  - first:
+      213: -780926698997762046
+    second: SantaIdle_61
+  - first:
+      213: 6193126429252973542
+    second: SantaIdle_62
+  - first:
+      213: 222944072356793191
+    second: SantaIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SantaIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a4675bfdbefd30800000000000000
+      internalID: 4467216767598766265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d00f58969f39410800000000000000
+      internalID: 1482802933949009271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438615489228230b0800000000000000
+      internalID: -5750390659373504460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 108
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f445e4895cb75d0800000000000000
+      internalID: -3063637863555641551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 108
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2124ce21811ed0800000000000000
+      internalID: -2445031084826481676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 108
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04502de2d970f70800000000000000
+      internalID: 9153457592071438511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 108
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e753fb3e5acabc70800000000000000
+      internalID: 8987718512452786145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 108
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9117ad1cd8defccc0800000000000000
+      internalID: -3688468376694656743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26f89085adc7480800000000000000
+      internalID: -8899998691938573664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed081d0005cc40360800000000000000
+      internalID: 7135052353644888286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 107
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca64cf783d533e3f0800000000000000
+      internalID: -872794720143915348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 108
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a69afce0e775b4e0800000000000000
+      internalID: -1966533854345128285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 108
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cac6be55b2d4db0800000000000000
+      internalID: -4806137579312468855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 108
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89c21d71e51fba30800000000000000
+      internalID: 4233126232961763726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 108
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169737acb83712490800000000000000
+      internalID: -7772804437630551711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 108
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8119178f77b6db0800000000000000
+      internalID: -4797609069092202295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22367f9579a2c2e20800000000000000
+      internalID: 3327081054257767202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a14c100b2d6a3820800000000000000
+      internalID: 2898749341619208615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed21dda53dfe2b70800000000000000
+      internalID: 8876310322585087471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a346992d24ac10800000000000000
+      internalID: 2063824185880454523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f7f58eca614e5d0800000000000000
+      internalID: -3034275317052113133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe3f82351a5dff0800000000000000
+      internalID: -11926045457125593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1338336daa587bc0800000000000000
+      internalID: -3785175786064432355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c51a7d3cf81fb0800000000000000
+      internalID: -4676710872052807197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4764f8e5fe8787200800000000000000
+      internalID: 178025154760099444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9bbd2750721d00800000000000000
+      internalID: 941938791805591001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 75
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5530b4b662faac0800000000000000
+      internalID: -3841809714861877768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 76
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c594a3a07a712fa40800000000000000
+      internalID: 5400404909369215324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca1e9f570f772a0800000000000000
+      internalID: -6739653927842501446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8583e88310eb8170800000000000000
+      internalID: 8181879522554250638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b628f5d9ce2784ba0800000000000000
+      internalID: -6104502934322576789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_31
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 76
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530412804d8a9d00800000000000000
+      internalID: 980251177106277202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff17cc2a69a4410800000000000000
+      internalID: 1462146654994038686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb1b24119a988f0800000000000000
+      internalID: -537712788895580406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbb56f8e6c7e9e50800000000000000
+      internalID: 6818023700179565525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cc6628eaac6ec70800000000000000
+      internalID: 9000103756207410324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a4e687e7f7a260800000000000000
+      internalID: 7108923110600255138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e9d2e1ee7fb00b0800000000000000
+      internalID: -5761238696209834441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51aebf8208612540800000000000000
+      internalID: 4981377023059337567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c1f1880972ecc0800000000000000
+      internalID: -3683248467788838741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c39aae4424eb30800000000000000
+      internalID: 4315614263215638207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_41
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a4818cec2b42050800000000000000
+      internalID: 5774937223385860702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de90f2b5c18a10930800000000000000
+      internalID: 4107749174880963053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ce9919972e7bb0800000000000000
+      internalID: -4936464603038170396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c24df399abea7b0800000000000000
+      internalID: -5211022551457452989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e0020e49a7fbab0800000000000000
+      internalID: -4990135082269274580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30690f352cab01570800000000000000
+      internalID: 8435447445859636739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 44
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba177e648e22463f0800000000000000
+      internalID: -908562843804667477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9778aa518f4869f0800000000000000
+      internalID: -475042343697221732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269993178a4ffaf70800000000000000
+      internalID: 9200841568032495970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1a362ad225e72e0800000000000000
+      internalID: -2126171618120850988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170288dbd3170bd10800000000000000
+      internalID: 2139334332987744369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1494c5429a6d4c0800000000000000
+      internalID: -4263034023627374171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc81c951232bf80800000000000000
+      internalID: -8092350512036787140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ae844297165c4a0800000000000000
+      internalID: -6573740908149675423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c3957a189d7a240800000000000000
+      internalID: 4803046678495575098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69061aad7da7c1920800000000000000
+      internalID: 2962377722407510166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3da99e67503bea0800000000000000
+      internalID: -5858332681995365408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312145678ed6a6320800000000000000
+      internalID: 2551972984043868691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 12
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1368491f65d28380800000000000000
+      internalID: -8970372834626346213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_60
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4624757daf9f47c10800000000000000
+      internalID: 2050538586110378596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_61
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208be960e479925f0800000000000000
+      internalID: -780926698997762046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3f4b0cca762f550800000000000000
+      internalID: 6193126429252973542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaIdle_63
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0b9dd37e081300800000000000000
+      internalID: 222944072356793191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SantaIdle_0: 4467216767598766265
+      SantaIdle_1: 1482802933949009271
+      SantaIdle_10: -872794720143915348
+      SantaIdle_11: -1966533854345128285
+      SantaIdle_12: -4806137579312468855
+      SantaIdle_13: 4233126232961763726
+      SantaIdle_14: -7772804437630551711
+      SantaIdle_15: -4797609069092202295
+      SantaIdle_16: 3327081054257767202
+      SantaIdle_17: 2898749341619208615
+      SantaIdle_18: 8876310322585087471
+      SantaIdle_19: 2063824185880454523
+      SantaIdle_2: -5750390659373504460
+      SantaIdle_20: -3034275317052113133
+      SantaIdle_21: -11926045457125593
+      SantaIdle_22: -3785175786064432355
+      SantaIdle_23: -4676710872052807197
+      SantaIdle_24: 178025154760099444
+      SantaIdle_25: 941938791805591001
+      SantaIdle_26: -3841809714861877768
+      SantaIdle_27: 5400404909369215324
+      SantaIdle_28: -6739653927842501446
+      SantaIdle_29: 8181879522554250638
+      SantaIdle_3: -3063637863555641551
+      SantaIdle_30: -6104502934322576789
+      SantaIdle_31: 980251177106277202
+      SantaIdle_32: 1462146654994038686
+      SantaIdle_33: -537712788895580406
+      SantaIdle_34: 6818023700179565525
+      SantaIdle_35: 9000103756207410324
+      SantaIdle_36: 7108923110600255138
+      SantaIdle_37: -5761238696209834441
+      SantaIdle_38: 4981377023059337567
+      SantaIdle_39: -3683248467788838741
+      SantaIdle_4: -2445031084826481676
+      SantaIdle_40: 4315614263215638207
+      SantaIdle_41: 5774937223385860702
+      SantaIdle_42: 4107749174880963053
+      SantaIdle_43: -4936464603038170396
+      SantaIdle_44: -5211022551457452989
+      SantaIdle_45: -4990135082269274580
+      SantaIdle_46: 8435447445859636739
+      SantaIdle_47: -908562843804667477
+      SantaIdle_48: -475042343697221732
+      SantaIdle_49: 9200841568032495970
+      SantaIdle_5: 9153457592071438511
+      SantaIdle_50: -2126171618120850988
+      SantaIdle_51: 2139334332987744369
+      SantaIdle_52: -4263034023627374171
+      SantaIdle_53: -8092350512036787140
+      SantaIdle_54: -6573740908149675423
+      SantaIdle_55: 4803046678495575098
+      SantaIdle_56: 2962377722407510166
+      SantaIdle_57: -5858332681995365408
+      SantaIdle_58: 2551972984043868691
+      SantaIdle_59: -8970372834626346213
+      SantaIdle_6: 8987718512452786145
+      SantaIdle_60: 2050538586110378596
+      SantaIdle_61: -780926698997762046
+      SantaIdle_62: 6193126429252973542
+      SantaIdle_63: 222944072356793191
+      SantaIdle_7: -3688468376694656743
+      SantaIdle_8: -8899998691938573664
+      SantaIdle_9: 7135052353644888286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

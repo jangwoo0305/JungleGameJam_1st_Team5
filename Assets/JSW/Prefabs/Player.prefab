@@ -420,7 +420,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0.007378104}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: -5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 895874001894784792}
@@ -469,8 +469,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0, g: 0.02520442, b: 1, a: 1}
+  m_Sprite: {fileID: 6730351682064004663, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -562,6 +562,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   body: {fileID: 1140018438296946256}
   snowMan: {fileID: 8077090738551331953}
+  snowManUp: {fileID: -2698181726012239072, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
+  snowManRight: {fileID: 5591921969845948023, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
+  snowManDown: {fileID: 6730351682064004663, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
+  characterAnimator: {fileID: 8567182582205484638}
 --- !u!114 &4000572530351898847
 MonoBehaviour:
   m_ObjectHideFlags: 0

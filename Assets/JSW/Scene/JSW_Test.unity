@@ -342,10 +342,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4197337452209543433, guid: 83297abd7ff73a54490da4f356780278, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4511817130041512774, guid: 83297abd7ff73a54490da4f356780278, type: 3}
       propertyPath: m_Name
       value: House (1)
@@ -494,11 +490,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1577441185 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 8567182582205484638, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-  m_PrefabInstance: {fileID: 821123973145931941}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2143798798
 GameObject:
   m_ObjectHideFlags: 0
@@ -632,58 +623,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 895874001894784792, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1140018438296946256, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2700708152653011718, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_LocalScale.x
-      value: -5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2700708152653011718, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4659956000473434569, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: snowManUp
-      value: 
-      objectReference: {fileID: -2698181726012239072, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
-    - target: {fileID: 4659956000473434569, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: snowManDown
-      value: 
-      objectReference: {fileID: 6730351682064004663, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
-    - target: {fileID: 4659956000473434569, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: snowManRight
-      value: 
-      objectReference: {fileID: 5591921969845948023, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
-    - target: {fileID: 4659956000473434569, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: characterAnimater
-      value: 
-      objectReference: {fileID: 1577441185}
-    - target: {fileID: 4659956000473434569, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: characterAnimator
-      value: 
-      objectReference: {fileID: 1577441185}
-    - target: {fileID: 5476564539879798539, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 6730351682064004663, guid: e47b7a0f6645eb941a6ee86410ce2911, type: 3}
-    - target: {fileID: 5476564539879798539, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5476564539879798539, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5476564539879798539, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8077090738551331953, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
-      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8552565993599539346, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}

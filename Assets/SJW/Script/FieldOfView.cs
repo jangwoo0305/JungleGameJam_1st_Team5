@@ -1,7 +1,4 @@
 using UnityEngine;
-#if UNITY_EDITOR
-using UnityEditor;
-#endif
 
 [RequireComponent(typeof(MeshFilter))]
 [RequireComponent(typeof(MeshRenderer))]
@@ -17,7 +14,6 @@ public class FieldOfView : MonoBehaviour
 
     private Mesh mesh;
     private Vector2 lookDir = Vector2.up;         // 바라보는 방향
-    private bool gameEnded = false;
 
     void Start()
     {
@@ -28,11 +24,8 @@ public class FieldOfView : MonoBehaviour
 
     void LateUpdate()
     {
-        if (!gameEnded)
-        {
-            DrawFOV();
-            CheckForTargets();
-        }
+        DrawFOV(); 
+        CheckForTargets();
     }
 
     // 외부에서 방향 세팅
@@ -128,15 +121,7 @@ public class FieldOfView : MonoBehaviour
 
     void EndGame()
     {
-        if (gameEnded) return;
-        gameEnded = true;
-
-        Debug.Log("게임 종료: Player가 FOV 내에 감지됨!");
-
-#if UNITY_EDITOR
-        EditorApplication.isPlaying = false;
-#else
-        Application.Quit();
-#endif
+        enabled = false;
+        GameManager.Instance.EndGame();
     }
 }

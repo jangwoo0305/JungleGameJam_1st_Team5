@@ -130,6 +130,16 @@ public class FieldOfView : MonoBehaviour
     void EndGame()
     {
         enabled = false;
-        GameManager.Instance.EndGame();
+        
+        // TimerManager에 적 발각 알림
+        if (TimerManager.Instance != null)
+        {
+            TimerManager.Instance.OnPlayerDetected();
+        }
+        else
+        {
+            // TimerManager가 없으면 기존 방식으로 처리
+            GameManager.Instance.EndGame();
+        }
     }
 }

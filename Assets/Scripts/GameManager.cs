@@ -2,6 +2,7 @@
     using UnityEditor;
 #endif
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -28,5 +29,33 @@ public class GameManager : MonoBehaviour
 #else
         Application.Quit();
 #endif
+    }
+
+    /// <summary>
+    /// 게임 승리 처리
+    /// </summary>
+    public void WinGame()
+    {
+        if (isGameOver) return;
+        isGameOver = true;
+        
+        Debug.Log("게임 승리!");
+        
+        // ending 씬으로 전환
+        SceneManager.LoadScene("ending");
+    }
+
+    /// <summary>
+    /// 게임 실패 처리
+    /// </summary>
+    public void LoseGame()
+    {
+        if (isGameOver) return;
+        isGameOver = true;
+        
+        Debug.Log("게임 실패!");
+        
+        // ending 씬으로 전환
+        SceneManager.LoadScene("ending");
     }
 }

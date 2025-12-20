@@ -6,6 +6,7 @@ public class HouseManager : MonoBehaviour
 {
     public List<House> houseList = new List<House>();
     public House nowTargetHouse = null;
+    public RotationArrow rotationArrow = null;
 
     public static HouseManager Instance { get; private set; }
 
@@ -30,6 +31,7 @@ public class HouseManager : MonoBehaviour
         // 1. 씬에 있는 모든 House 컴포넌트를 찾아 배열로 반환
         // (Unity 2023 이상) SortMode.None이 성능이 더 빠름
         var housesArray = FindObjectsByType<House>(FindObjectsSortMode.None);
+        rotationArrow = FindAnyObjectByType<RotationArrow>(); ;
 
         // (Unity 2022 이하 구버전인 경우 아래 코드 사용)
         // var housesArray = FindObjectsOfType<House>();
@@ -66,6 +68,7 @@ public class HouseManager : MonoBehaviour
         Debug.Log($"새로운 집으로 {nowTargetHouse.name}이(가) 선택되었습니다.");
 
         nowTargetHouse.canDelivery = true;
+        rotationArrow.homeTrans = nowTargetHouse.GetComponent<Transform>();
     }
 
 }

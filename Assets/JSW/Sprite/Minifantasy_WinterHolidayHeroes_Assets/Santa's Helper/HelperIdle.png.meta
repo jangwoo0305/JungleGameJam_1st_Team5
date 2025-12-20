@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: f2a1d952e3210c6449ebea838f741931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2395083786017070213
+    second: HelperIdle_0
+  - first:
+      213: -1242799258603482207
+    second: HelperIdle_1
+  - first:
+      213: 1842224247239143011
+    second: HelperIdle_2
+  - first:
+      213: 3480179409961599789
+    second: HelperIdle_3
+  - first:
+      213: 2087667139627176787
+    second: HelperIdle_4
+  - first:
+      213: -8191932394621702430
+    second: HelperIdle_5
+  - first:
+      213: 6416375411740969843
+    second: HelperIdle_6
+  - first:
+      213: 3597852452071702071
+    second: HelperIdle_7
+  - first:
+      213: -4635656503265966611
+    second: HelperIdle_8
+  - first:
+      213: 4488158477239772914
+    second: HelperIdle_9
+  - first:
+      213: 6434727511982500419
+    second: HelperIdle_10
+  - first:
+      213: -8225274469284366797
+    second: HelperIdle_11
+  - first:
+      213: -4132219110487988264
+    second: HelperIdle_12
+  - first:
+      213: -6332793648583743476
+    second: HelperIdle_13
+  - first:
+      213: 1093284201813724868
+    second: HelperIdle_14
+  - first:
+      213: 4888431424896658304
+    second: HelperIdle_15
+  - first:
+      213: -5161198866864595528
+    second: HelperIdle_16
+  - first:
+      213: -5209122489924236964
+    second: HelperIdle_17
+  - first:
+      213: -766317462652281146
+    second: HelperIdle_18
+  - first:
+      213: 6344474423681121013
+    second: HelperIdle_19
+  - first:
+      213: 7442581436292115632
+    second: HelperIdle_20
+  - first:
+      213: 4288403011967106500
+    second: HelperIdle_21
+  - first:
+      213: 3058628718235867863
+    second: HelperIdle_22
+  - first:
+      213: 1119964082406012782
+    second: HelperIdle_23
+  - first:
+      213: 9071682461720770951
+    second: HelperIdle_24
+  - first:
+      213: 2692022268878314993
+    second: HelperIdle_25
+  - first:
+      213: -255361430720364695
+    second: HelperIdle_26
+  - first:
+      213: -1323307885274680266
+    second: HelperIdle_27
+  - first:
+      213: 1467996019397184857
+    second: HelperIdle_28
+  - first:
+      213: 6415652476469536419
+    second: HelperIdle_29
+  - first:
+      213: -8757381160617931459
+    second: HelperIdle_30
+  - first:
+      213: 526628101712542066
+    second: HelperIdle_31
+  - first:
+      213: -2714023931720023665
+    second: HelperIdle_32
+  - first:
+      213: 2542240443981963877
+    second: HelperIdle_33
+  - first:
+      213: 1794995818157311587
+    second: HelperIdle_34
+  - first:
+      213: 5026597665002630868
+    second: HelperIdle_35
+  - first:
+      213: 5747232363806152652
+    second: HelperIdle_36
+  - first:
+      213: 3536402083211524178
+    second: HelperIdle_37
+  - first:
+      213: -8477395467304269341
+    second: HelperIdle_38
+  - first:
+      213: 3472750479569075592
+    second: HelperIdle_39
+  - first:
+      213: -8132065592587181677
+    second: HelperIdle_40
+  - first:
+      213: -5662882542109455679
+    second: HelperIdle_41
+  - first:
+      213: 1007346827639570039
+    second: HelperIdle_42
+  - first:
+      213: -4709657159223903640
+    second: HelperIdle_43
+  - first:
+      213: -2709851312325651630
+    second: HelperIdle_44
+  - first:
+      213: -8122441268036596504
+    second: HelperIdle_45
+  - first:
+      213: -1054424445226952251
+    second: HelperIdle_46
+  - first:
+      213: 2502113243303435806
+    second: HelperIdle_47
+  - first:
+      213: 8393415132524825705
+    second: HelperIdle_48
+  - first:
+      213: -9034841107161821323
+    second: HelperIdle_49
+  - first:
+      213: 8726984481423348863
+    second: HelperIdle_50
+  - first:
+      213: 4169577582827837184
+    second: HelperIdle_51
+  - first:
+      213: -2830820464880396461
+    second: HelperIdle_52
+  - first:
+      213: 2163888251693409876
+    second: HelperIdle_53
+  - first:
+      213: 604008642464952270
+    second: HelperIdle_54
+  - first:
+      213: 7317674066165219768
+    second: HelperIdle_55
+  - first:
+      213: -2106189335007686105
+    second: HelperIdle_56
+  - first:
+      213: 4414915506254061211
+    second: HelperIdle_57
+  - first:
+      213: -176329725508708047
+    second: HelperIdle_58
+  - first:
+      213: 6634863142267783203
+    second: HelperIdle_59
+  - first:
+      213: 8303943457204848950
+    second: HelperIdle_60
+  - first:
+      213: 7160445689177775289
+    second: HelperIdle_61
+  - first:
+      213: 1066017499045818689
+    second: HelperIdle_62
+  - first:
+      213: 4147792717211157196
+    second: HelperIdle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelperIdle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a72f7cf3f2ced0800000000000000
+      internalID: -2395083786017070213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a312dfa8a0b0cee0800000000000000
+      internalID: -1242799258603482207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eec4d3135e09910800000000000000
+      internalID: 1842224247239143011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23c36d0cb41c4030800000000000000
+      internalID: 3480179409961599789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353dbbad332e8fc10800000000000000
+      internalID: 2087667139627176787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeee8ac3e8605e80800000000000000
+      internalID: -8191932394621702430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b0f5a017b8b0950800000000000000
+      internalID: 6416375411740969843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e70003eb32ee130800000000000000
+      internalID: 3597852452071702071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de54a1698f6daafb0800000000000000
+      internalID: -4635656503265966611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e8831b54294e30800000000000000
+      internalID: 4488158477239772914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a662a549ebc4950800000000000000
+      internalID: 6434727511982500419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33637361374f9dd80800000000000000
+      internalID: -8225274469284366797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 108
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76849cc9867a6c0800000000000000
+      internalID: -4132219110487988264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e05caab56d18a0800000000000000
+      internalID: -6332793648583743476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce47a760302c2f00800000000000000
+      internalID: 1093284201813724868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 108
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b62dd1b7237d340800000000000000
+      internalID: 4888431424896658304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd136dc9fcbf58b0800000000000000
+      internalID: -5161198866864595528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59419cc1ba75b7b0800000000000000
+      internalID: -5209122489924236964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9e6de35e7d55f0800000000000000
+      internalID: -766317462652281146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa7016bfd91c0850800000000000000
+      internalID: 6344474423681121013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcab12426c594760800000000000000
+      internalID: 7442581436292115632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdb30681d7738b30800000000000000
+      internalID: 4288403011967106500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad14a2d9e627a20800000000000000
+      internalID: 3058628718235867863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67b10d2669ea8f00800000000000000
+      internalID: 1119964082406012782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f106922715ed70800000000000000
+      internalID: 9071682461720770951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddee79dfbfb5520800000000000000
+      internalID: 2692022268878314993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fb398b126c47cf0800000000000000
+      internalID: -255361430720364695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634bab15d7aa2ade0800000000000000
+      internalID: -1323307885274680266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d4bd31a9e5f5410800000000000000
+      internalID: 1467996019397184857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6625e8fe9f80950800000000000000
+      internalID: 6415652476469536419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8ba6ab38877680800000000000000
+      internalID: -8757381160617931459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797053e775fe4700800000000000000
+      internalID: 526628101712542066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f814be51d99d55ad0800000000000000
+      internalID: -2714023931720023665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622d25e63ad74320800000000000000
+      internalID: 2542240443981963877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660492bf2b19e810800000000000000
+      internalID: 1794995818157311587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2a4bb1ff02c540800000000000000
+      internalID: 5026597665002630868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75b4e726542cf40800000000000000
+      internalID: 5747232363806152652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25836c045f2d31130800000000000000
+      internalID: 3536402083211524178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e982d6dcbd3a5a80800000000000000
+      internalID: -8477395467304269341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d38486920b13030800000000000000
+      internalID: 3472750479569075592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3912aa7dd69152f80800000000000000
+      internalID: -8132065592587181677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0ec8c4566961b0800000000000000
+      internalID: -5662882542109455679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb2134a90dafd00800000000000000
+      internalID: 1007346827639570039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a759a34cfe3aeb0800000000000000
+      internalID: -4709657159223903640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_44
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25314beb69ca46ad0800000000000000
+      internalID: -2709851312325651630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec84b583ba474f80800000000000000
+      internalID: -8122441268036596504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_46
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c952cbbd8eed51f0800000000000000
+      internalID: -1054424445226952251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ed6eeecba49b220800000000000000
+      internalID: 2502113243303435806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc782c7966b7470800000000000000
+      internalID: 8393415132524825705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc585b1ebcd9280800000000000000
+      internalID: -9034841107161821323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d597f52a7c1970800000000000000
+      internalID: 8726984481423348863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00792ef58b05dd930800000000000000
+      internalID: 4169577582827837184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357d5e719c7e6b8d0800000000000000
+      internalID: -2830820464880396461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a3df66eca70e10800000000000000
+      internalID: 2163888251693409876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa36ff8aed16800800000000000000
+      internalID: 604008642464952270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1cddfdac99d8560800000000000000
+      internalID: 7317674066165219768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722962975ff45c2e0800000000000000
+      internalID: -2106189335007686105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e13aff24ee44d30800000000000000
+      internalID: 4414915506254061211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_58
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13916b38c0d8d8df0800000000000000
+      internalID: -176329725508708047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280438ffd4c31c50800000000000000
+      internalID: 6634863142267783203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639cf9104988d3370800000000000000
+      internalID: 8303943457204848950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc1be8aa630f5360800000000000000
+      internalID: 7160445689177775289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_62
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f9f274414bce00800000000000000
+      internalID: 1066017499045818689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperIdle_63
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2c257108bef8930800000000000000
+      internalID: 4147792717211157196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HelperIdle_0: -2395083786017070213
+      HelperIdle_1: -1242799258603482207
+      HelperIdle_10: 6434727511982500419
+      HelperIdle_11: -8225274469284366797
+      HelperIdle_12: -4132219110487988264
+      HelperIdle_13: -6332793648583743476
+      HelperIdle_14: 1093284201813724868
+      HelperIdle_15: 4888431424896658304
+      HelperIdle_16: -5161198866864595528
+      HelperIdle_17: -5209122489924236964
+      HelperIdle_18: -766317462652281146
+      HelperIdle_19: 6344474423681121013
+      HelperIdle_2: 1842224247239143011
+      HelperIdle_20: 7442581436292115632
+      HelperIdle_21: 4288403011967106500
+      HelperIdle_22: 3058628718235867863
+      HelperIdle_23: 1119964082406012782
+      HelperIdle_24: 9071682461720770951
+      HelperIdle_25: 2692022268878314993
+      HelperIdle_26: -255361430720364695
+      HelperIdle_27: -1323307885274680266
+      HelperIdle_28: 1467996019397184857
+      HelperIdle_29: 6415652476469536419
+      HelperIdle_3: 3480179409961599789
+      HelperIdle_30: -8757381160617931459
+      HelperIdle_31: 526628101712542066
+      HelperIdle_32: -2714023931720023665
+      HelperIdle_33: 2542240443981963877
+      HelperIdle_34: 1794995818157311587
+      HelperIdle_35: 5026597665002630868
+      HelperIdle_36: 5747232363806152652
+      HelperIdle_37: 3536402083211524178
+      HelperIdle_38: -8477395467304269341
+      HelperIdle_39: 3472750479569075592
+      HelperIdle_4: 2087667139627176787
+      HelperIdle_40: -8132065592587181677
+      HelperIdle_41: -5662882542109455679
+      HelperIdle_42: 1007346827639570039
+      HelperIdle_43: -4709657159223903640
+      HelperIdle_44: -2709851312325651630
+      HelperIdle_45: -8122441268036596504
+      HelperIdle_46: -1054424445226952251
+      HelperIdle_47: 2502113243303435806
+      HelperIdle_48: 8393415132524825705
+      HelperIdle_49: -9034841107161821323
+      HelperIdle_5: -8191932394621702430
+      HelperIdle_50: 8726984481423348863
+      HelperIdle_51: 4169577582827837184
+      HelperIdle_52: -2830820464880396461
+      HelperIdle_53: 2163888251693409876
+      HelperIdle_54: 604008642464952270
+      HelperIdle_55: 7317674066165219768
+      HelperIdle_56: -2106189335007686105
+      HelperIdle_57: 4414915506254061211
+      HelperIdle_58: -176329725508708047
+      HelperIdle_59: 6634863142267783203
+      HelperIdle_6: 6416375411740969843
+      HelperIdle_60: 8303943457204848950
+      HelperIdle_61: 7160445689177775289
+      HelperIdle_62: 1066017499045818689
+      HelperIdle_63: 4147792717211157196
+      HelperIdle_7: 3597852452071702071
+      HelperIdle_8: -4635656503265966611
+      HelperIdle_9: 4488158477239772914
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

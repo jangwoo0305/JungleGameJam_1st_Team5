@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 50335cd425f105044b44cb508b8fe19e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7301475423276987425
+    second: SantaAttack_0
+  - first:
+      213: -1492632195482244271
+    second: SantaAttack_1
+  - first:
+      213: -1486130327589679207
+    second: SantaAttack_2
+  - first:
+      213: 6016126850932990399
+    second: SantaAttack_3
+  - first:
+      213: -8109373121135071789
+    second: SantaAttack_4
+  - first:
+      213: -3602507822683422327
+    second: SantaAttack_5
+  - first:
+      213: 2624393745375587769
+    second: SantaAttack_6
+  - first:
+      213: 7963527600614766307
+    second: SantaAttack_7
+  - first:
+      213: 3863900618218325516
+    second: SantaAttack_8
+  - first:
+      213: -8735048658242452087
+    second: SantaAttack_9
+  - first:
+      213: 4136691989579297679
+    second: SantaAttack_10
+  - first:
+      213: 7599247784314541005
+    second: SantaAttack_11
+  - first:
+      213: 3610728232696583435
+    second: SantaAttack_12
+  - first:
+      213: 6444781297174113096
+    second: SantaAttack_13
+  - first:
+      213: -5754034088551691022
+    second: SantaAttack_14
+  - first:
+      213: 4302842543113889563
+    second: SantaAttack_15
+  - first:
+      213: -7711941236564302689
+    second: SantaAttack_16
+  - first:
+      213: 6765068904788608300
+    second: SantaAttack_17
+  - first:
+      213: 2955854292932864849
+    second: SantaAttack_18
+  - first:
+      213: 4282716425312033556
+    second: SantaAttack_19
+  - first:
+      213: 4100479321392500701
+    second: SantaAttack_20
+  - first:
+      213: 6912691168926537778
+    second: SantaAttack_21
+  - first:
+      213: -5002166334852807754
+    second: SantaAttack_22
+  - first:
+      213: -1130951230003315833
+    second: SantaAttack_23
+  - first:
+      213: 3841215238790930326
+    second: SantaAttack_24
+  - first:
+      213: -2293676359489258762
+    second: SantaAttack_25
+  - first:
+      213: 1977448388137401594
+    second: SantaAttack_26
+  - first:
+      213: -600048441466979636
+    second: SantaAttack_27
+  - first:
+      213: 4198794034036917967
+    second: SantaAttack_28
+  - first:
+      213: 3240186533643647924
+    second: SantaAttack_29
+  - first:
+      213: 9076155528791226094
+    second: SantaAttack_30
+  - first:
+      213: 6008114583814964555
+    second: SantaAttack_31
+  - first:
+      213: 1768451506744638236
+    second: SantaAttack_32
+  - first:
+      213: 5220777971657464631
+    second: SantaAttack_33
+  - first:
+      213: 4303632915892171393
+    second: SantaAttack_34
+  - first:
+      213: -5043513847343147247
+    second: SantaAttack_35
+  - first:
+      213: -8383930543045638041
+    second: SantaAttack_36
+  - first:
+      213: -782527532906552699
+    second: SantaAttack_37
+  - first:
+      213: 1810238576112254104
+    second: SantaAttack_38
+  - first:
+      213: 6552749693295969529
+    second: SantaAttack_39
+  - first:
+      213: -3930238878216351382
+    second: SantaAttack_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SantaAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1247bac663d045560800000000000000
+      internalID: 7301475423276987425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 102
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b28ff2dea194be0800000000000000
+      internalID: -1492632195482244271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f05164754306be0800000000000000
+      internalID: -1486130327589679207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ec810f739d7350800000000000000
+      internalID: 6016126850932990399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 118
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda4a39c18b57f80800000000000000
+      internalID: -8109373121135071789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9818360e832510ec0800000000000000
+      internalID: -3602507822683422327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 108
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd6edfe438bb6420800000000000000
+      internalID: 2624393745375587769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 103
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e679a10922248e60800000000000000
+      internalID: 7963527600614766307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 108
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06c054f3255f9530800000000000000
+      internalID: 3863900618218325516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985c4bd868fd6c680800000000000000
+      internalID: -8735048658242452087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f318827b786930800000000000000
+      internalID: 4136691989579297679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 70
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc31e38e893f57960800000000000000
+      internalID: 7599247784314541005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 70
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059a5a7232eb1230800000000000000
+      internalID: 3610728232696583435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84be421a176707950800000000000000
+      internalID: 6444781297174113096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc436e8b709520b0800000000000000
+      internalID: -5754034088551691022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17edbade74c6bb30800000000000000
+      internalID: 4302842543113889563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94e5e11e4ea9f490800000000000000
+      internalID: -7711941236564302689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 76
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2547f6735a52ed50800000000000000
+      internalID: 6765068904788608300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ba31291dd450920800000000000000
+      internalID: 2955854292932864849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5474e5e34f6b30800000000000000
+      internalID: 4282716425312033556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4f60b734d7e830800000000000000
+      internalID: 4100479321392500701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23898dd3effceef50800000000000000
+      internalID: 6912691168926537778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34ea7983cb49ab0800000000000000
+      internalID: -5002166334852807754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 35
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b7c5d29dd0e40f0800000000000000
+      internalID: -1130951230003315833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f53f578ecbe4530800000000000000
+      internalID: 3841215238790930326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 35
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7ee2e0893b20e0800000000000000
+      internalID: -2293676359489258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 42
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc399005de417b10800000000000000
+      internalID: 1977448388137401594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 43
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca75562f133ca7f0800000000000000
+      internalID: -600048441466979636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6ccc38dec154a30800000000000000
+      internalID: 4198794034036917967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb75df2c7477fc20800000000000000
+      internalID: 3240186533643647924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee67ccbad5bf4fd70800000000000000
+      internalID: 9076155528791226094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458222b16c116350800000000000000
+      internalID: 6008114583814964555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bb406964dca8810800000000000000
+      internalID: 1768451506744638236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bd3d387ede37840800000000000000
+      internalID: 5220777971657464631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827e6bd55399bb30800000000000000
+      internalID: 4303632915892171393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1171955a0e6d10ab0800000000000000
+      internalID: -5043513847343147247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7688730579b46ab80800000000000000
+      internalID: -8383930543045638041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5826426da57e325f0800000000000000
+      internalID: -782527532906552699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c31e7d4624f1910800000000000000
+      internalID: 1810238576112254104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c4fac02b00fa50800000000000000
+      internalID: 6552749693295969529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaAttack_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611c75409cf479c0800000000000000
+      internalID: -3930238878216351382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SantaAttack_0: 7301475423276987425
+      SantaAttack_1: -1492632195482244271
+      SantaAttack_10: 4136691989579297679
+      SantaAttack_11: 7599247784314541005
+      SantaAttack_12: 3610728232696583435
+      SantaAttack_13: 6444781297174113096
+      SantaAttack_14: -5754034088551691022
+      SantaAttack_15: 4302842543113889563
+      SantaAttack_16: -7711941236564302689
+      SantaAttack_17: 6765068904788608300
+      SantaAttack_18: 2955854292932864849
+      SantaAttack_19: 4282716425312033556
+      SantaAttack_2: -1486130327589679207
+      SantaAttack_20: 4100479321392500701
+      SantaAttack_21: 6912691168926537778
+      SantaAttack_22: -5002166334852807754
+      SantaAttack_23: -1130951230003315833
+      SantaAttack_24: 3841215238790930326
+      SantaAttack_25: -2293676359489258762
+      SantaAttack_26: 1977448388137401594
+      SantaAttack_27: -600048441466979636
+      SantaAttack_28: 4198794034036917967
+      SantaAttack_29: 3240186533643647924
+      SantaAttack_3: 6016126850932990399
+      SantaAttack_30: 9076155528791226094
+      SantaAttack_31: 6008114583814964555
+      SantaAttack_32: 1768451506744638236
+      SantaAttack_33: 5220777971657464631
+      SantaAttack_34: 4303632915892171393
+      SantaAttack_35: -5043513847343147247
+      SantaAttack_36: -8383930543045638041
+      SantaAttack_37: -782527532906552699
+      SantaAttack_38: 1810238576112254104
+      SantaAttack_39: 6552749693295969529
+      SantaAttack_4: -8109373121135071789
+      SantaAttack_40: -3930238878216351382
+      SantaAttack_5: -3602507822683422327
+      SantaAttack_6: 2624393745375587769
+      SantaAttack_7: 7963527600614766307
+      SantaAttack_8: 3863900618218325516
+      SantaAttack_9: -8735048658242452087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

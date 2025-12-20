@@ -23,7 +23,7 @@ public class ScoreManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // 씬이 바뀌어도 점수 매니저는 사라지지 않음
+            //DontDestroyOnLoad(gameObject); // 씬이 바뀌어도 점수 매니저는 사라지지 않음
         }
         else
         {

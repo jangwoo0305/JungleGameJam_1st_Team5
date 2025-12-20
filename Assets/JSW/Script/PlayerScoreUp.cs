@@ -4,6 +4,8 @@ public class PlayerScoreUp : MonoBehaviour
 {
     // 현재 상호작용 가능한(충돌 중인) 오브젝트를 저장할 변수
     private GameObject nearObject;
+    [SerializeField]
+    private GameObject ThrowBox;
 
     void Update()
     {
@@ -17,6 +19,8 @@ public class PlayerScoreUp : MonoBehaviour
 
             if (houseScript != null)
             {
+                GameObject throwBoxing = Instantiate(ThrowBox);
+                throwBoxing.GetComponent<DeliveryBox>().FlyToTarget(transform.position, houseScript.transform.position, 0.6f);
                 houseScript.ScoreUp();
             }
         }
@@ -44,4 +48,6 @@ public class PlayerScoreUp : MonoBehaviour
             }
         }
     }
+
+
 }

@@ -78,6 +78,14 @@ public class FieldOfView : MonoBehaviour
     // 🔹 FOV 내 Player 감지
     void CheckForTargets()
     {
+        // 부모 오브젝트에서 Enemy 컴포넌트 가져오기
+        Enemy enemy = GetComponentInParent<Enemy>();
+        if (enemy != null && enemy.IsStunned())
+        {
+            // 기절 중이면 감지하지 않음
+            return;
+        }
+        
         Vector2 origin = transform.position;
         Collider2D[] hits = Physics2D.OverlapCircleAll(origin, viewDistance, targetLayerMask);
 

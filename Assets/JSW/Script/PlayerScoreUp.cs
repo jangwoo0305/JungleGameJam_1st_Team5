@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerScoreUp : MonoBehaviour
 {
-    // ÇöÀç »óÈ£ÀÛ¿ë °¡´ÉÇÑ(Ãæµ¹ ÁßÀÎ) ¿ÀºêÁ§Æ®¸¦ ÀúÀåÇÒ º¯¼ö
+    // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È£ï¿½Û¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½æµ¹ ï¿½ï¿½ï¿½ï¿½) ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
     private GameObject nearObject;
     [SerializeField]
     private GameObject ThrowBox;
@@ -15,7 +15,7 @@ public class PlayerScoreUp : MonoBehaviour
 
         House houseScript = nearObject.GetComponent<House>();
 
-        // 1. FÅ°¸¦ ´­·¶°í + »óÈ£ÀÛ¿ëÇÒ ¹°Ã¼°¡ Á¸ÀçÇÑ´Ù¸é
+        // 1. FÅ°ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ + ï¿½ï¿½È£ï¿½Û¿ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¼ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´Ù¸ï¿½
         if (Input.GetKeyDown(KeyCode.F) && HouseManager.Instance.nowTargetHouse == houseScript)
         {
 
@@ -29,10 +29,10 @@ public class PlayerScoreUp : MonoBehaviour
         }
     }
 
-    // ¿µ¿ª¿¡ µé¾î¿ÔÀ» ¶§: ´ë»óÀ» º¯¼ö¿¡ ÀúÀå (Lock On)
+    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½: ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (Lock On)
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("House")) // ÅÂ±× È®ÀÎ
+        if (other.CompareTag("House")) // ï¿½Â±ï¿½ È®ï¿½ï¿½
         {
             nearObject = other.gameObject;
 
@@ -43,12 +43,12 @@ public class PlayerScoreUp : MonoBehaviour
         }
     }
 
-    // ¿µ¿ª¿¡¼­ ³ª°¬À» ¶§: ´ë»ó º¯¼ö ÃÊ±âÈ­ (Lock Off)
+    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½: ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ê±ï¿½È­ (Lock Off)
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("House"))
         {
-            // ³»°¡ Áö±İ º¸°í ÀÖ´ø ±× ¾ÆÀÌÅÛÀÌ ¸Â´ÂÁö È®ÀÎ ÈÄ ÇØÁ¦
+            // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Â´ï¿½ï¿½ï¿½ È®ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
             if (nearObject == other.gameObject)
             {
                 funKeyUI.SetActive(false);
@@ -56,6 +56,19 @@ public class PlayerScoreUp : MonoBehaviour
             }
         }
     }
-
+    
+    /// <summary>
+    /// ì„ ë¬¼ì„ ë˜ì§ˆ ìˆ˜ ìˆëŠ”ì§€ í™•ì¸ (SnowballShooterì—ì„œ ìš°ì„ ìˆœìœ„ í™•ì¸ìš©)
+    /// </summary>
+    public bool CanThrowGift()
+    {
+        if (nearObject == null) return false;
+        
+        House houseScript = nearObject.GetComponent<House>();
+        if (houseScript == null) return false;
+        
+        // í˜„ì¬ íƒ€ê²Ÿ ì§‘ì´ê³  Fí‚¤ë¥¼ ëˆ„ë¥¼ ìˆ˜ ìˆëŠ” ìƒíƒœì¸ì§€ í™•ì¸
+        return HouseManager.Instance != null && HouseManager.Instance.nowTargetHouse == houseScript;
+    }
 
 }

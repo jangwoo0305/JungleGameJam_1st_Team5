@@ -28,24 +28,23 @@ public class SnowballShooter : MonoBehaviour
         Debug.Log($"눈덩이 초기화 완료! 현재 개수: {currentSnowballs}");
     }
     
-    void Update()
-    {
-        // F키 입력 처리
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            // 선물 던지기 우선순위 확인
-            bool canThrowGift = CanThrowGift();
+    //void Update()
+    //{
+    //    // F키 입력 처리
+    //    if (Input.GetKeyDown(KeyCode.F))
+    //    {
+    //        // 선물 던지기 우선순위 확인
+    //        bool canThrowGift = true;
             
-            if (canThrowGift)
-            {
-                // 선물을 던질 수 있으면 눈덩이 발사하지 않음
-                return;
-            }
-            
-            // 눈덩이 발사
-            TryShootSnowball();
-        }
-    }
+    //        if (canThrowGift)
+    //        {
+    //            // 선물을 던질 수 있으면 눈덩이 발사하지 않음
+    //            return;
+    //        }
+    //        // 눈덩이 발사
+    //        TryShootSnowball();
+    //    }
+    //}
     
     /// <summary>
     /// 선물을 던질 수 있는지 확인
@@ -53,7 +52,7 @@ public class SnowballShooter : MonoBehaviour
     private bool CanThrowGift()
     {
         if (playerScoreUp == null) return false;
-        
+
         // PlayerScoreUp의 CanThrowGift 메서드 사용
         return playerScoreUp.CanThrowGift();
     }
@@ -61,7 +60,7 @@ public class SnowballShooter : MonoBehaviour
     /// <summary>
     /// 눈덩이 발사 시도
     /// </summary>
-    private void TryShootSnowball()
+    public void TryShootSnowball()
     {
         // 눈덩이 개수 확인
         if (currentSnowballs <= 0)

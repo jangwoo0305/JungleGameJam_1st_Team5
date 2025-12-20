@@ -1,30 +1,50 @@
+using System.Linq.Expressions;
 using UnityEngine;
 
 public class PlayerScoreUp : MonoBehaviour
 {
     // ���� ��ȣ�ۿ� ������(�浹 ����) ������Ʈ�� ������ ����
-    private GameObject nearObject;
+    public GameObject nearObject;
     [SerializeField]
     private GameObject ThrowBox;
     [SerializeField]
     private GameObject funKeyUI;
 
+    private SnowballShooter snowballShooter;
+
+    private void Start()
+    {
+        snowballShooter = GetComponent<SnowballShooter>();
+    }
+
     void Update()
     {
-        if (nearObject == null) return;
+
+        if (nearObject == null)
+        {
+            if (Input.GetKeyDown(KeyCode.F)) snowballShooter.TryShootSnowball();
+
+            return;
+        }
 
         House houseScript = nearObject.GetComponent<House>();
 
         // 1. FŰ�� ������ + ��ȣ�ۿ��� ��ü�� �����Ѵٸ�
-        if (Input.GetKeyDown(KeyCode.F) && HouseManager.Instance.nowTargetHouse == houseScript)
+        if (Input.GetKeyDown(KeyCode.F))
         {
-
-            if (houseScript != null)
+            if (HouseManager.Instance.nowTargetHouse == houseScript)
             {
-                GameObject throwBoxing = Instantiate(ThrowBox);
-                throwBoxing.GetComponent<DeliveryBox>().FlyToTarget(transform.position, houseScript.transform.position, 0.6f);
-                houseScript.ScoreUp();
-                funKeyUI.SetActive(false);
+                if (houseScript != null)
+                {
+                    GameObject throwBoxing = Instantiate(ThrowBox);
+                    throwBoxing.GetComponent<DeliveryBox>().FlyToTarget(transform.position, houseScript.transform.position, 0.6f);
+                    houseScript.ScoreUp();
+                    funKeyUI.SetActive(false);
+                }
+            }
+            else
+            {
+                snowballShooter.TryShootSnowball();
             }
         }
     }
@@ -66,9 +86,11 @@ public class PlayerScoreUp : MonoBehaviour
         
         House houseScript = nearObject.GetComponent<House>();
         if (houseScript == null) return false;
-        
-        // 현재 타겟 집이고 F키를 누를 수 있는 상태인지 확인
-        return HouseManager.Instance != null && HouseManager.Instance.nowTargetHouse == houseScript;
+
+
+        Debug.Log(HouseManager.Instance.nowTargetHouse.gameObject);
+        Debug.Log(nearObject);
+        return HouseManager.Instance != null && HouseManager.Instance.nowTargetHouse.gameObject == nearObject;
     }
 
 }

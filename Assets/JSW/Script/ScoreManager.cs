@@ -51,6 +51,12 @@ public class ScoreManager : MonoBehaviour
 
         // ���� ���� �˸� (UI ������Ʈ ��)
         UpdateScoreUI();
+
+        // TimerManager에 선물 배달 성공 알림
+        if (TimerManager.Instance != null)
+        {
+            TimerManager.Instance.CheckWinCondition();
+        }
     }
 
     // ���� �ʱ�ȭ (���� ����� �� ��)

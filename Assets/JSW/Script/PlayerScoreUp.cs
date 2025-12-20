@@ -17,7 +17,6 @@ public class PlayerScoreUp : MonoBehaviour
 
             if (houseScript != null)
             {
-
                 houseScript.ScoreUp();
             }
         }

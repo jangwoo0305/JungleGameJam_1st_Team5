@@ -21,6 +21,7 @@ public class PlayerSnowman : MonoBehaviour
     {
         if (isSnowman)
         {
+            this.tag = "Snowman";
             body.SetActive(false);
 
             snowMan.SetActive(true);
@@ -45,6 +46,8 @@ public class PlayerSnowman : MonoBehaviour
         }
         else
         {
+
+            this.tag = "Player";
             body.SetActive(true);
             snowMan.SetActive(false);
         }

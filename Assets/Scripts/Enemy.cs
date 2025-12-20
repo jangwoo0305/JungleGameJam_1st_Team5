@@ -10,6 +10,10 @@ public class Enemy : MonoBehaviour
     Vector2 _lookDir = Vector2.up;
     public FieldOfView fov;
     
+    // 기절 시스템
+    private bool isStunned = false;
+    private float stunTimer = 0f;
+    
     void Awake()
     {
         _agent = GetComponent<NavMeshAgent>();
@@ -19,6 +23,19 @@ public class Enemy : MonoBehaviour
 
     private void Update()
     {
+        // 기절 상태 처리
+        if (isStunned)
+        {
+            stunTimer -= Time.deltaTime;
+            if (stunTimer <= 0f)
+            {
+                // 기절 해제
+                isStunned = false;
+                _agent.enabled = true;
+            }
+            return; // 기절 중에는 이동하지 않음
+        }
+        
         // 목적지에 도착했는지 확인
         if (!_agent.pathPending && _agent.remainingDistance <= _agent.stoppingDistance)
         {
@@ -57,5 +74,29 @@ public class Enemy : MonoBehaviour
         
         if (fov != null)
             fov.SetDirection(_lookDir);
+    }
+    
+    /// <summary>
+    /// 적을 기절시킴
+    /// </summary>
+    public void Stun(float duration)
+    {
+        if (isStunned) return; // 이미 기절 중이면 무시
+        
+        isStunned = true;
+        stunTimer = duration;
+        
+        // NavMeshAgent 비활성화하여 이동 중지
+        _agent.enabled = false;
+        
+        Debug.Log($"Enemy 기절! {duration}초 동안 기절합니다.");
+    }
+    
+    /// <summary>
+    /// 기절 상태 확인
+    /// </summary>
+    public bool IsStunned()
+    {
+        return isStunned;
     }
 }

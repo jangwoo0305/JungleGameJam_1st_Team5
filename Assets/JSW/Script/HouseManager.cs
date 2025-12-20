@@ -69,6 +69,7 @@ public class HouseManager : MonoBehaviour
 
         nowTargetHouse.canDelivery = true;
         rotationArrow.homeTrans = nowTargetHouse.GetComponent<Transform>();
+        nowTargetHouse.SetActiveInfo();
     }
 
 }

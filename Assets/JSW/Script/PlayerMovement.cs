@@ -1,3 +1,4 @@
+using NUnit.Framework.Constraints;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -40,6 +41,9 @@ public class PlayerMovement : MonoBehaviour
         {
             moveInputMoving = Vector2.zero;
         }
+
+        if (moveInputMoving.x > 0) anim.transform.localScale = new Vector3(10, 10, 1);
+        else if (moveInputMoving.x < 0) anim.transform.localScale = new Vector3(-10, 10, 1);
 
         // 물리 이동 처리
         rb.MovePosition(rb.position + moveInputMoving * moveSpeed * Time.fixedDeltaTime);

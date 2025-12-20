@@ -7,15 +7,18 @@ public class PlayerScoreUp : MonoBehaviour
 
     void Update()
     {
-        // 1. F키를 눌렀고 + 상호작용할 물체가 존재한다면
-        if (Input.GetKeyDown(KeyCode.F) && nearObject != null)
-        {
-            // 2. 저장해둔 오브젝트에서 스크립트를 가져와 실행
-            House itemScript = nearObject.GetComponent<House>();
+        if (nearObject == null) return;
 
-            if (itemScript != null)
+        House houseScript = nearObject.GetComponent<House>();
+
+        // 1. F키를 눌렀고 + 상호작용할 물체가 존재한다면
+        if (Input.GetKeyDown(KeyCode.F) && HouseManager.Instance.nowTargetHouse == houseScript)
+        {
+
+            if (houseScript != null)
             {
-                itemScript.ScoreUp();
+
+                houseScript.ScoreUp();
             }
         }
     }

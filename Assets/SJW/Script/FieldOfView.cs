@@ -31,9 +31,6 @@ public class FieldOfView : MonoBehaviour
             return;
 
         lookDir = dir.normalized;
-
-        float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg;
-        transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 
     void DrawFOV()

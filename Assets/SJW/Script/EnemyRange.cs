@@ -29,10 +29,7 @@ public class EnemyRange : MonoBehaviour
             return;
 
         lookDir = velocity.normalized;
-
-        float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg - 90f;
-        transform.rotation = Quaternion.Euler(0, 0, angle);
-
+        
         if (fov != null)
             fov.SetDirection(lookDir);
     }

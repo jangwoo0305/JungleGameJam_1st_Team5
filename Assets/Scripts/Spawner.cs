@@ -2,6 +2,13 @@ using System.Collections;
 using UnityEngine;
 using Random = UnityEngine.Random;
 using UnityEngine.AI;
+using UnityEngine.Tilemaps;
+
+public enum SpawnType
+{
+    Enemy,
+    Snow
+}
 
 public class Spawner : MonoBehaviour
 {
@@ -11,26 +18,69 @@ public class Spawner : MonoBehaviour
     [SerializeField] int maxSpawnCount = 20;
     int _curSpawnCount = 0;
     
+    public GameObject snowPrefab;
+    [SerializeField] int spawnSnowOnStart = 2;
+    [SerializeField] int spawnSnowSec = 10;
+    [SerializeField] int maxSnowCount = 20;
+    int _curSnowCount = 0;
+    
+    public Tilemap groundTilemap;
+    
     void Start()
     {
-        for (int i = 0; i < spawnCountOnStart; i++)
+        for (int i = 0; i < spawnCountOnStart || i < spawnSnowOnStart; i++)
         {
-            SpawnEnemy();
+            if (i < spawnCountOnStart) SpawnEnemy();
+            if (i < spawnSnowOnStart) SpawnSnow();
         }
         // 코루틴
-        StartCoroutine(SpawnTimer());
+        StartCoroutine(SpawnTimer(spawnSec, SpawnType.Enemy));
+        StartCoroutine(SpawnTimer(spawnSnowSec, SpawnType.Snow));
     }
 
-    IEnumerator SpawnTimer()
+    IEnumerator SpawnTimer(int sec, SpawnType type)
     {
-        while (!GameManager.Instance.isGameOver && _curSpawnCount < maxSpawnCount)
+        while (!GameManager.Instance.isGameOver)
         {
-            yield return new WaitForSeconds(spawnSec);
-            
-            SpawnEnemy();
+            yield return new WaitForSeconds(sec);
+
+            switch (type)
+            {
+                case SpawnType.Enemy:
+                    if (_curSpawnCount < maxSpawnCount) SpawnEnemy();
+                    else yield break;
+                    break;
+                case SpawnType.Snow:
+                    if (_curSnowCount < maxSnowCount) SpawnSnow();
+                    else yield break;
+                    break;
+            }
         }
     }
+    
+    void SpawnSnow()
+    {
+        BoundsInt bounds = groundTilemap.cellBounds;
 
+        for (int attempt = 0; attempt < 5; attempt++)
+        {
+            // Tilemap 범위 안 랜덤 좌표
+            int x = Random.Range(bounds.xMin, bounds.xMax);
+            int y = Random.Range(bounds.yMin, bounds.yMax);
+            Vector3Int cellPos = new Vector3Int(x, y, 0);
+
+            // 월드 좌표로
+            Vector3 spawnPos = groundTilemap.CellToWorld(cellPos) + groundTilemap.tileAnchor;
+
+            NavMeshHit hit;
+            if (NavMesh.SamplePosition(spawnPos, out hit, 2f, NavMesh.AllAreas))
+            {
+                Instantiate(snowPrefab, hit.position, Quaternion.identity);
+                return;
+            }
+        }
+    }
+    
     void SpawnEnemy()
     {
         for (int i = 0; i < 5; i++)

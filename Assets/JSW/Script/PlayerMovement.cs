@@ -3,20 +3,21 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [Header("¼³Á¤")]
+    [Header("ï¿½ï¿½ï¿½ï¿½")]
     public float moveSpeed = 10f;
 
     private Rigidbody2D rb;
     private PlayerState playerState;
-    private Animator anim; // 1. ¾Ö´Ï¸ŞÀÌÅÍ º¯¼ö Ãß°¡
+    private Animator anim; // 1. ï¿½Ö´Ï¸ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½
 
     private Vector2 moveInputMoving;
+    private Vector2 lastMoveDirection = Vector2.up; // ë§ˆì§€ë§‰ ì´ë™ ë°©í–¥ ì €ì¥
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         playerState = GetComponent<PlayerState>();
-        anim = GetComponentInChildren<Animator>(); // 2. ÄÄÆ÷³ÍÆ® °¡Á®¿À±â
+        anim = GetComponentInChildren<Animator>(); // 2. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     }
 
     void Start()
@@ -26,11 +27,30 @@ public class PlayerMovement : MonoBehaviour
 
     public void Move(Vector2 moveInput)
     {
-        // ÀÔ·Â¹ŞÀº º¤ÅÍ¸¦ Á¤±ÔÈ­ÇÏ¿© ÀúÀå
+        // ï¿½Ô·Â¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½È­ï¿½Ï¿ï¿½ ï¿½ï¿½ï¿½ï¿½
         moveInputMoving = moveInput.normalized;
+        
+        // ì´ë™ ë°©í–¥ì´ ìˆìœ¼ë©´ ë§ˆì§€ë§‰ ì´ë™ ë°©í–¥ ì—…ë°ì´íŠ¸
+        if (moveInputMoving.sqrMagnitude > 0.01f)
+        {
+            lastMoveDirection = moveInputMoving;
+        }
+    }
+    
+    /// <summary>
+    /// í˜„ì¬ ì´ë™ ë°©í–¥ ë°˜í™˜ (ëˆˆë©ì´ ë°œì‚¬ ë“±ì— ì‚¬ìš©)
+    /// </summary>
+    public Vector2 GetMoveDirection()
+    {
+        // ì´ë™ ë°©í–¥ì´ ì—†ìœ¼ë©´ ë§ˆì§€ë§‰ ì´ë™ ë°©í–¥ ë°˜í™˜
+        if (moveInputMoving.sqrMagnitude < 0.01f)
+        {
+            return lastMoveDirection;
+        }
+        return moveInputMoving;
     }
 
-    void Update() // 3. ¾Ö´Ï¸ŞÀÌ¼Ç Ã³¸®´Â Update¿¡¼­ ÇÏ´Â °ÍÀÌ ºÎµå·´½À´Ï´Ù.
+    void Update() // 3. ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ Ã³ï¿½ï¿½ï¿½ï¿½ Updateï¿½ï¿½ï¿½ï¿½ ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Îµå·´ï¿½ï¿½ï¿½Ï´ï¿½.
     {
         UpdateAnimation();
     }
@@ -45,17 +65,17 @@ public class PlayerMovement : MonoBehaviour
         if (moveInputMoving.x > 0) anim.transform.localScale = new Vector3(10, 10, 1);
         else if (moveInputMoving.x < 0) anim.transform.localScale = new Vector3(-10, 10, 1);
 
-        // ¹°¸® ÀÌµ¿ Ã³¸®
+        // ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ Ã³ï¿½ï¿½
         rb.MovePosition(rb.position + moveInputMoving * moveSpeed * Time.fixedDeltaTime);
     }
 
     bool isRight = false;
-    // 4. ¾Ö´Ï¸ŞÀÌ¼Ç »óÅÂ ¾÷µ¥ÀÌÆ® ÇÔ¼ö Ãß°¡
+    // 4. ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ô¼ï¿½ ï¿½ß°ï¿½
     void UpdateAnimation()
     {
         if (anim == null) return;
 
-        // ´«»ç¶÷ »óÅÂÀÏ ¶§´Â ¿òÁ÷ÀÓ °ªÀ» 0À¸·Î °­Á¦ÇÏ¿© Idle·Î º¸³¿ (¼±ÅÃ»çÇ×)
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ 0ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¿ï¿½ Idleï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½)
         if (playerState.currentState == PlayerStates.Snowman)
         {
             anim.SetFloat("InputX", 0);
@@ -64,8 +84,8 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        // ÇöÀç ÀÌµ¿ ÀÔ·Â°ªÀ» ¾Ö´Ï¸ŞÀÌÅÍ ÆÄ¶ó¹ÌÅÍ·Î Àü´Ş
-        // ¿òÁ÷ÀÌÁö ¾ÊÀ» ¶§(0,0)´Â ÀÚµ¿À¸·Î ºí·»µå Æ®¸®ÀÇ °¡¿îµ¥(Idle)°¡ ½ÇÇàµÊ
+        // ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ ï¿½Ô·Â°ï¿½ï¿½ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ä¶ï¿½ï¿½ï¿½Í·ï¿½ ï¿½ï¿½ï¿½ï¿½
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½(0,0)ï¿½ï¿½ ï¿½Úµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Æ®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½îµ¥(Idle)ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
         anim.SetFloat("InputX", moveInputMoving.x);
         anim.SetFloat("InputY", moveInputMoving.y);
     }

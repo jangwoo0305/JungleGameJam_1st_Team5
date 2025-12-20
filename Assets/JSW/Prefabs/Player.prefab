@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2863470067051872328}
   - component: {fileID: 6169428429638950365}
   - component: {fileID: 8567182582205484638}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: 4467216767598766265, guid: b46b8d7186f844648b568a798a257e3c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -120,7 +120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4074283794556891642}
   - component: {fileID: 5191672715770798274}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Triangle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 9010854275686936061}
   - component: {fileID: 3926343907523442617}
   - component: {fileID: 3099567825088769755}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HouseArrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 1303260829472240481}
   - component: {fileID: 4568071458783505370}
   - component: {fileID: 2537303072850912271}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -403,7 +403,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2700708152653011718}
   - component: {fileID: 5476564539879798539}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: SnowBody
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -496,7 +496,7 @@ GameObject:
   - component: {fileID: 2456128111181798155}
   - component: {fileID: 1540170596482251763}
   - component: {fileID: 6744100360884919537}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}

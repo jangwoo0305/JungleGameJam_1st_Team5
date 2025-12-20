@@ -5,6 +5,12 @@ public class DeliveryBox : MonoBehaviour
 {
     [Header("설정")]
     public float rotateSpeed = 720f; // 1초에 720도 회전 (2바퀴)
+    public Sprite[] spriteArray;
+
+    public void Start()
+    {
+        GetComponent<SpriteRenderer>().sprite = spriteArray[Random.RandomRange(0,spriteArray.Length)];
+    }
 
     public void FlyToTarget(Vector3 startPos, Vector3 endPos, float duration)
     {

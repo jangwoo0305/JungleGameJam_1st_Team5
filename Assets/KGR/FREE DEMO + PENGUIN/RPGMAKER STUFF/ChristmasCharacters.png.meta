@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: d433c2f039f994687935f2f3a1899a7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6052185563476428864
+    second: ChristmasCharacters_0
+  - first:
+      213: 2349769408247224668
+    second: ChristmasCharacters_1
+  - first:
+      213: 510855547720312169
+    second: ChristmasCharacters_2
+  - first:
+      213: 6661348698443033726
+    second: ChristmasCharacters_3
+  - first:
+      213: 9012914094728221512
+    second: ChristmasCharacters_4
+  - first:
+      213: 7426989545032319127
+    second: ChristmasCharacters_5
+  - first:
+      213: 1365609518856268210
+    second: ChristmasCharacters_6
+  - first:
+      213: 7836465798852270186
+    second: ChristmasCharacters_7
+  - first:
+      213: 7724254720468730217
+    second: ChristmasCharacters_8
+  - first:
+      213: -988860446877055931
+    second: ChristmasCharacters_9
+  - first:
+      213: -4500837782867552674
+    second: ChristmasCharacters_10
+  - first:
+      213: -4756182605516249981
+    second: ChristmasCharacters_11
+  - first:
+      213: 8197785010911212813
+    second: ChristmasCharacters_12
+  - first:
+      213: -868144080492360564
+    second: ChristmasCharacters_13
+  - first:
+      213: 5389748250274689988
+    second: ChristmasCharacters_14
+  - first:
+      213: 4458694882042863284
+    second: ChristmasCharacters_15
+  - first:
+      213: 6694303006895594506
+    second: ChristmasCharacters_16
+  - first:
+      213: -7099172833130771023
+    second: ChristmasCharacters_17
+  - first:
+      213: 8124374513347480454
+    second: ChristmasCharacters_18
+  - first:
+      213: 4608252825300428403
+    second: ChristmasCharacters_19
+  - first:
+      213: 1786439779788911655
+    second: ChristmasCharacters_20
+  - first:
+      213: -3170014446706144329
+    second: ChristmasCharacters_21
+  - first:
+      213: 2958414583130412202
+    second: ChristmasCharacters_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChristmasCharacters_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77d3ebb41520ca0800000000000000
+      internalID: -6052185563476428864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 44
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59d7a2c3de0c9020800000000000000
+      internalID: 2349769408247224668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 287
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965286df96ce61700800000000000000
+      internalID: 510855547720312169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c25bf095dd17c50800000000000000
+      internalID: 6661348698443033726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 44
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843136fdd9d441d70800000000000000
+      internalID: 9012914094728221512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 287
+        width: 38
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790013e24a7f11760800000000000000
+      internalID: 7426989545032319127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 335
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9e1514f9e93f210800000000000000
+      internalID: 1365609518856268210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 50
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68561bef18b0cc60800000000000000
+      internalID: 7836465798852270186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9614c205eb0123b60800000000000000
+      internalID: 7724254720468730217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544857ba9acd642f0800000000000000
+      internalID: -988860446877055931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d58802efc981c0800000000000000
+      internalID: -4500837782867552674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384ef4f9e15aefdb0800000000000000
+      internalID: -4756182605516249981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 287
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057260a80264c170800000000000000
+      internalID: 8197785010911212813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 239
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c0564fe8bb3f3f0800000000000000
+      internalID: -868144080492360564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 239
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3f76e3a7b3cca40800000000000000
+      internalID: 5389748250274689988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be540e3f5770ed30800000000000000
+      internalID: 4458694882042863284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c57d8ed11f6ec50800000000000000
+      internalID: 6694303006895594506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd032adbebaa7d90800000000000000
+      internalID: -7099172833130771023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b405a33939fb070800000000000000
+      internalID: 8124374513347480454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376e83f678dc3ff30800000000000000
+      internalID: 4608252825300428403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f1f6c385bac810800000000000000
+      internalID: 1786439779788911655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb493bf7a8d104d0800000000000000
+      internalID: -3170014446706144329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChristmasCharacters_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 191
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4d2d593666e0920800000000000000
+      internalID: 2958414583130412202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChristmasCharacters_0: -6052185563476428864
+      ChristmasCharacters_1: 2349769408247224668
+      ChristmasCharacters_10: -4500837782867552674
+      ChristmasCharacters_11: -4756182605516249981
+      ChristmasCharacters_12: 8197785010911212813
+      ChristmasCharacters_13: -868144080492360564
+      ChristmasCharacters_14: 5389748250274689988
+      ChristmasCharacters_15: 4458694882042863284
+      ChristmasCharacters_16: 6694303006895594506
+      ChristmasCharacters_17: -7099172833130771023
+      ChristmasCharacters_18: 8124374513347480454
+      ChristmasCharacters_19: 4608252825300428403
+      ChristmasCharacters_2: 510855547720312169
+      ChristmasCharacters_20: 1786439779788911655
+      ChristmasCharacters_21: -3170014446706144329
+      ChristmasCharacters_22: 2958414583130412202
+      ChristmasCharacters_3: 6661348698443033726
+      ChristmasCharacters_4: 9012914094728221512
+      ChristmasCharacters_5: 7426989545032319127
+      ChristmasCharacters_6: 1365609518856268210
+      ChristmasCharacters_7: 7836465798852270186
+      ChristmasCharacters_8: 7724254720468730217
+      ChristmasCharacters_9: -988860446877055931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

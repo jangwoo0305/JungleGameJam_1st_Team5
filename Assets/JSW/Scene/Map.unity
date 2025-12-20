@@ -22979,8 +22979,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4283562495
-  m_fontColor: {r: 1, g: 0.9778653, b: 0.3160377, a: 1}
+    rgba: 4283364730
+  m_fontColor: {r: 0.47922137, g: 0.9622642, b: 0.30411178, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -25436,7 +25436,6 @@ GameObject:
   - component: {fileID: 1079243421}
   - component: {fileID: 1079243424}
   - component: {fileID: 1079243423}
-  - component: {fileID: 1079243422}
   m_Layer: 5
   m_Name: Timer Text (1)
   m_TagString: Untagged
@@ -25463,19 +25462,6 @@ RectTransform:
   m_AnchoredPosition: {x: 162, y: -150.7}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1079243422
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1079243420}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18c030f1027c4f48a0b733392b234a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timerText: {fileID: 1079243423}
 --- !u!114 &1079243423
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135646,6 +135632,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3556322892991841077, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
+      propertyPath: snowText
+      value: 
+      objectReference: {fileID: 1079243423}
     - target: {fileID: 3556322892991841077, guid: 25eb5bfc24e3d404fbf4e693a41266c5, type: 3}
       propertyPath: snowballPrefab
       value: 

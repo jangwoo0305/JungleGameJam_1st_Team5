@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 public class SnowballShooter : MonoBehaviour
@@ -10,6 +11,8 @@ public class SnowballShooter : MonoBehaviour
     
     [Header("눈덩이 개수")]
     [SerializeField] private int maxSnowballs = 10;
+
+    [SerializeField] private TMP_Text snowText;
     private int currentSnowballs = 0;
     
     private PlayerMovement playerMovement;
@@ -25,6 +28,7 @@ public class SnowballShooter : MonoBehaviour
     {
         // 최초 눈덩이 개수를 최대 개수로 설정
         currentSnowballs = maxSnowballs;
+        snowText.text = currentSnowballs.ToString();
         Debug.Log($"눈덩이 초기화 완료! 현재 개수: {currentSnowballs}");
     }
     
@@ -84,6 +88,7 @@ public class SnowballShooter : MonoBehaviour
         
         // 눈덩이 개수 감소
         currentSnowballs--;
+        snowText.text = currentSnowballs.ToString();
         Debug.Log($"눈덩이 발사! 남은 개수: {currentSnowballs}");
         
         // TODO: UI 업데이트

@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/JSW/Scene/Map.unity
     guid: 4ca1770eff56ae840bc8f2a277043d38
+  - enabled: 1
+    path: Assets/KGR/Scenes/ending.unity
+    guid: b7779d8aeaf574eeaa6e6f5dccd8bc85
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -136216,8 +136216,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 089514fcecba84882966e53bdb3784ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  finishTime: 10
-  goal: 1
+  finishTime: 20
+  goal: 2
   onTimerChanged:
     m_PersistentCalls:
       m_Calls: []

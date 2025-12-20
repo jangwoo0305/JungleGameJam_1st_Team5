@@ -96,6 +96,6 @@ public class UIManager : MonoBehaviour
             fadeImageGroup.alpha = Mathf.Lerp(0, 1, time / transitionSpeed);
             yield return null;
         }
-        // SceneManager.LoadScene("Scene2");
+         SceneManager.LoadScene("Map");
     }
 }

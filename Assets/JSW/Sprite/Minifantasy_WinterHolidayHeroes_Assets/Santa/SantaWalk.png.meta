@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: b175290c78ba59f4da0e9979ded6bbd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4235329647110569689
+    second: SantaWalk_0
+  - first:
+      213: 5749288314859428702
+    second: SantaWalk_1
+  - first:
+      213: 5426494741765940630
+    second: SantaWalk_2
+  - first:
+      213: -589539004750837262
+    second: SantaWalk_3
+  - first:
+      213: -5372827059415101935
+    second: SantaWalk_4
+  - first:
+      213: -2880037101566672446
+    second: SantaWalk_5
+  - first:
+      213: 4679584365319944315
+    second: SantaWalk_6
+  - first:
+      213: 8326481449550061019
+    second: SantaWalk_7
+  - first:
+      213: 501179559629867790
+    second: SantaWalk_8
+  - first:
+      213: 4458223724755584157
+    second: SantaWalk_9
+  - first:
+      213: -5392822237345305215
+    second: SantaWalk_10
+  - first:
+      213: 3081553432250287822
+    second: SantaWalk_11
+  - first:
+      213: -5276989683301366417
+    second: SantaWalk_12
+  - first:
+      213: -2430923575734352274
+    second: SantaWalk_13
+  - first:
+      213: 3652177370795817881
+    second: SantaWalk_14
+  - first:
+      213: -7588255423862276774
+    second: SantaWalk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SantaWalk_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214b4d20261935c0800000000000000
+      internalID: -4235329647110569689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b1086e24399cf40800000000000000
+      internalID: 5749288314859428702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 108
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695eb728738ce4b40800000000000000
+      internalID: 5426494741765940630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9c690166981d7f0800000000000000
+      internalID: -589539004750837262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec4f38142ef65b0800000000000000
+      internalID: -5372827059415101935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c14c25e38d0808d0800000000000000
+      internalID: -2880037101566672446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fd5fcf2931f040800000000000000
+      internalID: 4679584365319944315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9f4543ca9d8370800000000000000
+      internalID: 8326481449550061019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bcc64772c84f600800000000000000
+      internalID: 501179559629867790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9486436bdacedd30800000000000000
+      internalID: 4458223724755584157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 44
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18da43e5fb8d825b0800000000000000
+      internalID: -5392822237345305215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 44
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60aa51580e3ca20800000000000000
+      internalID: 3081553432250287822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cb6b77dd54c6b0800000000000000
+      internalID: -5276989683301366417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e664b3033ef934ed0800000000000000
+      internalID: -2430923575734352274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b310bf7f32fa230800000000000000
+      internalID: 3652177370795817881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaWalk_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5df1c375e911b690800000000000000
+      internalID: -7588255423862276774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SantaWalk_0: -4235329647110569689
+      SantaWalk_1: 5749288314859428702
+      SantaWalk_10: -5392822237345305215
+      SantaWalk_11: 3081553432250287822
+      SantaWalk_12: -5276989683301366417
+      SantaWalk_13: -2430923575734352274
+      SantaWalk_14: 3652177370795817881
+      SantaWalk_15: -7588255423862276774
+      SantaWalk_2: 5426494741765940630
+      SantaWalk_3: -589539004750837262
+      SantaWalk_4: -5372827059415101935
+      SantaWalk_5: -2880037101566672446
+      SantaWalk_6: 4679584365319944315
+      SantaWalk_7: 8326481449550061019
+      SantaWalk_8: 501179559629867790
+      SantaWalk_9: 4458223724755584157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

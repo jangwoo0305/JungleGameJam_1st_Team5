@@ -16,7 +16,6 @@ public class RotationArrow : MonoBehaviour
         // 1. 방어 코드: 대상이 없으면 실행하지 않음
         if (playerTrans == null || homeTrans == null || arrowTrans == null)
         {
-            homeTrans = HouseManager.Instance.nowTargetHouse.GetComponent<Transform>();
             return;
         }
 

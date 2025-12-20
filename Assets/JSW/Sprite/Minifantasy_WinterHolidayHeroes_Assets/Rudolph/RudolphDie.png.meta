@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: ae9e5d2bdcf4939479e7934eb0b7d237
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5211775836526194101
+    second: RudolphDie_0
+  - first:
+      213: -688724625950052770
+    second: RudolphDie_1
+  - first:
+      213: 8137658838101280511
+    second: RudolphDie_2
+  - first:
+      213: -7600403540725275198
+    second: RudolphDie_3
+  - first:
+      213: 1096072475695499696
+    second: RudolphDie_4
+  - first:
+      213: -2740061090241006459
+    second: RudolphDie_5
+  - first:
+      213: -5311966513804988187
+    second: RudolphDie_6
+  - first:
+      213: -3448646497441638883
+    second: RudolphDie_7
+  - first:
+      213: 6618616880359159434
+    second: RudolphDie_8
+  - first:
+      213: 8552077062447734325
+    second: RudolphDie_9
+  - first:
+      213: -5573216528195180143
+    second: RudolphDie_10
+  - first:
+      213: -7950090198428181719
+    second: RudolphDie_11
+  - first:
+      213: -5072460427611921041
+    second: RudolphDie_12
+  - first:
+      213: -7100956763095759924
+    second: RudolphDie_13
+  - first:
+      213: 3279051600303851117
+    second: RudolphDie_14
+  - first:
+      213: 5350279726133797935
+    second: RudolphDie_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RudolphDie_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdab199282f35840800000000000000
+      internalID: 5211775836526194101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eee2a0a982176f0800000000000000
+      internalID: -688724625950052770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6485c1995cee070800000000000000
+      internalID: 8137658838101280511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e2759f31f58690800000000000000
+      internalID: -7600403540725275198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 10
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c9e10c18063f00800000000000000
+      internalID: 1096072475695499696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b055b4f859f9d0800000000000000
+      internalID: -2740061090241006459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e032e5899a1846b0800000000000000
+      internalID: -5311966513804988187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 11
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1698144842f320d0800000000000000
+      internalID: -3448646497441638883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 11
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86363a5cfc0adb50800000000000000
+      internalID: 6618616880359159434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 11
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e96f607c41fa670800000000000000
+      internalID: 8552077062447734325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 11
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19927948815f7a2b0800000000000000
+      internalID: -5573216528195180143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9f5ef51b9ba190800000000000000
+      internalID: -7950090198428181719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6527fabd100b99b0800000000000000
+      internalID: -5072460427611921041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3054a4275547d90800000000000000
+      internalID: -7100956763095759924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 11
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66894cae08818d20800000000000000
+      internalID: 3279051600303851117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphDie_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 11
+        width: 69
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24ed2d5013004a40800000000000000
+      internalID: 5350279726133797935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RudolphDie_0: 5211775836526194101
+      RudolphDie_1: -688724625950052770
+      RudolphDie_10: -5573216528195180143
+      RudolphDie_11: -7950090198428181719
+      RudolphDie_12: -5072460427611921041
+      RudolphDie_13: -7100956763095759924
+      RudolphDie_14: 3279051600303851117
+      RudolphDie_15: 5350279726133797935
+      RudolphDie_2: 8137658838101280511
+      RudolphDie_3: -7600403540725275198
+      RudolphDie_4: 1096072475695499696
+      RudolphDie_5: -2740061090241006459
+      RudolphDie_6: -5311966513804988187
+      RudolphDie_7: -3448646497441638883
+      RudolphDie_8: 6618616880359159434
+      RudolphDie_9: 8552077062447734325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 04252d17ac4becd4da7f535650796ab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8597919586881451101
+    second: RudolphAttack_0
+  - first:
+      213: -4513467023788583376
+    second: RudolphAttack_1
+  - first:
+      213: -7817868233106728687
+    second: RudolphAttack_2
+  - first:
+      213: -3159625934522936504
+    second: RudolphAttack_3
+  - first:
+      213: 4623343484015076107
+    second: RudolphAttack_4
+  - first:
+      213: 4346411376942670934
+    second: RudolphAttack_5
+  - first:
+      213: -3810611219557584529
+    second: RudolphAttack_6
+  - first:
+      213: -9210866449542034324
+    second: RudolphAttack_7
+  - first:
+      213: 8086595674071408877
+    second: RudolphAttack_8
+  - first:
+      213: 6036623018407748015
+    second: RudolphAttack_9
+  - first:
+      213: -333370902167697031
+    second: RudolphAttack_10
+  - first:
+      213: -2217893047613684190
+    second: RudolphAttack_11
+  - first:
+      213: 9215734704878637959
+    second: RudolphAttack_12
+  - first:
+      213: -3011430889947603905
+    second: RudolphAttack_13
+  - first:
+      213: 4295842249481785069
+    second: RudolphAttack_14
+  - first:
+      213: 1081637981146766388
+    second: RudolphAttack_15
+  - first:
+      213: -8582745572866945725
+    second: RudolphAttack_16
+  - first:
+      213: 8517975392154358862
+    second: RudolphAttack_17
+  - first:
+      213: 5739177039333487078
+    second: RudolphAttack_18
+  - first:
+      213: 6601110109722341615
+    second: RudolphAttack_19
+  - first:
+      213: -3852878167212709358
+    second: RudolphAttack_20
+  - first:
+      213: 9074323916679546175
+    second: RudolphAttack_21
+  - first:
+      213: -6534637630053471598
+    second: RudolphAttack_22
+  - first:
+      213: -7856718565601216223
+    second: RudolphAttack_23
+  - first:
+      213: 476809128541373858
+    second: RudolphAttack_24
+  - first:
+      213: -7237481419934968226
+    second: RudolphAttack_25
+  - first:
+      213: -4315966564587618463
+    second: RudolphAttack_26
+  - first:
+      213: 5790430018310675081
+    second: RudolphAttack_27
+  - first:
+      213: 3050929858023620583
+    second: RudolphAttack_28
+  - first:
+      213: -8321087097390961265
+    second: RudolphAttack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RudolphAttack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abce8080bd0ea880800000000000000
+      internalID: -8597919586881451101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03654adb7a1fc51c0800000000000000
+      internalID: -4513467023788583376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119dcd8434a518390800000000000000
+      internalID: -7817868233106728687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 104
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84316a5f3f0c624d0800000000000000
+      internalID: -3159625934522936504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03e557376a692040800000000000000
+      internalID: 4623343484015076107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 104
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654626a7e1e815c30800000000000000
+      internalID: 4346411376942670934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 104
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f629094dfd1bc0800000000000000
+      internalID: -3810611219557584529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ccb71f3cd6c2080800000000000000
+      internalID: -9210866449542034324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ac33cbeb593070800000000000000
+      internalID: 8086595674071408877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 76
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e32fd6a466c350800000000000000
+      internalID: 6036623018407748015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979c7d54ee0af5bf0800000000000000
+      internalID: -333370902167697031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 72
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268d2b26067831e0800000000000000
+      internalID: -2217893047613684190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783d78413edd4ef70800000000000000
+      internalID: 9215734704878637959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd8039f8f3536d0800000000000000
+      internalID: -3011430889947603905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 72
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0a7bf3c5ed9b30800000000000000
+      internalID: 4295842249481785069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cd2d95300c20f00800000000000000
+      internalID: 1081637981146766388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d85b3ff56f3e880800000000000000
+      internalID: -8582745572866945725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4411ee2d7de53670800000000000000
+      internalID: 8517975392154358862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1fc8c1c17a5af40800000000000000
+      internalID: 5739177039333487078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe07d3dabaadb9b50800000000000000
+      internalID: 6601110109722341615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aad6868b3d78ac0800000000000000
+      internalID: -3852878167212709358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35048e36897eed70800000000000000
+      internalID: 9074323916679546175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a23cc82bd4055a0800000000000000
+      internalID: -6534637630053471598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1297f1d571457f290800000000000000
+      internalID: -7856718565601216223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54f5c4067fd9600800000000000000
+      internalID: 476809128541373858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5659409efc4f8b90800000000000000
+      internalID: -7237481419934968226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fba47c64b9a14c0800000000000000
+      internalID: -4315966564587618463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 12
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a9a223c6dbb5050800000000000000
+      internalID: 5790430018310675081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 12
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef71269a84175a20800000000000000
+      internalID: 3050929858023620583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphAttack_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dece63f5f858c80800000000000000
+      internalID: -8321087097390961265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RudolphAttack_0: -8597919586881451101
+      RudolphAttack_1: -4513467023788583376
+      RudolphAttack_10: -333370902167697031
+      RudolphAttack_11: -2217893047613684190
+      RudolphAttack_12: 9215734704878637959
+      RudolphAttack_13: -3011430889947603905
+      RudolphAttack_14: 4295842249481785069
+      RudolphAttack_15: 1081637981146766388
+      RudolphAttack_16: -8582745572866945725
+      RudolphAttack_17: 8517975392154358862
+      RudolphAttack_18: 5739177039333487078
+      RudolphAttack_19: 6601110109722341615
+      RudolphAttack_2: -7817868233106728687
+      RudolphAttack_20: -3852878167212709358
+      RudolphAttack_21: 9074323916679546175
+      RudolphAttack_22: -6534637630053471598
+      RudolphAttack_23: -7856718565601216223
+      RudolphAttack_24: 476809128541373858
+      RudolphAttack_25: -7237481419934968226
+      RudolphAttack_26: -4315966564587618463
+      RudolphAttack_27: 5790430018310675081
+      RudolphAttack_28: 3050929858023620583
+      RudolphAttack_29: -8321087097390961265
+      RudolphAttack_3: -3159625934522936504
+      RudolphAttack_4: 4623343484015076107
+      RudolphAttack_5: 4346411376942670934
+      RudolphAttack_6: -3810611219557584529
+      RudolphAttack_7: -9210866449542034324
+      RudolphAttack_8: 8086595674071408877
+      RudolphAttack_9: 6036623018407748015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

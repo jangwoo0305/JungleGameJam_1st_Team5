@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 4c72527e9eb817040bfd9d64ed0350f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7035820011345183443
+    second: SantaDie_0
+  - first:
+      213: -5155230904790625959
+    second: SantaDie_1
+  - first:
+      213: 367316835133146962
+    second: SantaDie_2
+  - first:
+      213: -4142510631345991822
+    second: SantaDie_3
+  - first:
+      213: 8159753261666076060
+    second: SantaDie_4
+  - first:
+      213: -8630722200236100001
+    second: SantaDie_5
+  - first:
+      213: -6266103618162246559
+    second: SantaDie_6
+  - first:
+      213: 3237368057010272083
+    second: SantaDie_7
+  - first:
+      213: 3520170520350597967
+    second: SantaDie_8
+  - first:
+      213: 2462725785757040552
+    second: SantaDie_9
+  - first:
+      213: -5131855131319596187
+    second: SantaDie_10
+  - first:
+      213: 1165704528323731437
+    second: SantaDie_11
+  - first:
+      213: 5478671728963697035
+    second: SantaDie_12
+  - first:
+      213: -8427056982232631794
+    second: SantaDie_13
+  - first:
+      213: 8016347137304173991
+    second: SantaDie_14
+  - first:
+      213: 4417911958764443441
+    second: SantaDie_15
+  - first:
+      213: -5242587120608638347
+    second: SantaDie_16
+  - first:
+      213: -4401011867424493568
+    second: SantaDie_17
+  - first:
+      213: -1350634894266849770
+    second: SantaDie_18
+  - first:
+      213: 8403028543569941213
+    second: SantaDie_19
+  - first:
+      213: 1286242347195792511
+    second: SantaDie_20
+  - first:
+      213: 2858379349702330777
+    second: SantaDie_21
+  - first:
+      213: 2573912790971625190
+    second: SantaDie_22
+  - first:
+      213: -1634866269784886285
+    second: SantaDie_23
+  - first:
+      213: -2366520589074577998
+    second: SantaDie_24
+  - first:
+      213: -8420929484816076324
+    second: SantaDie_25
+  - first:
+      213: 5525366722528071265
+    second: SantaDie_26
+  - first:
+      213: 5398598062175620339
+    second: SantaDie_27
+  - first:
+      213: 4463702268478286916
+    second: SantaDie_28
+  - first:
+      213: -6438841375751123314
+    second: SantaDie_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SantaDie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d280dfd50144a160800000000000000
+      internalID: 7035820011345183443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951d6d04ec0f478b0800000000000000
+      internalID: -5155230904790625959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c12627b8f81500800000000000000
+      internalID: 367316835133146962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fc75c5788d286c0800000000000000
+      internalID: -4142510631345991822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950178fb544d3170800000000000000
+      internalID: 8159753261666076060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5679dbe2e3893880800000000000000
+      internalID: -8630722200236100001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c36a165f35a09a0800000000000000
+      internalID: -6266103618162246559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573b4578117dec20800000000000000
+      internalID: 3237368057010272083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43ac4600782ad030800000000000000
+      internalID: 3520170520350597967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af3e37dd0c5d2220800000000000000
+      internalID: 2462725785757040552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0ee2a2fcf7c8b0800000000000000
+      internalID: -5131855131319596187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 4
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defdcc3a71a6d2010800000000000000
+      internalID: 1165704528323731437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893bd509e6280c40800000000000000
+      internalID: 5478671728963697035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067c08b2541d0b80800000000000000
+      internalID: -8427056982232631794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad1c3bbf39cf3f60800000000000000
+      internalID: 8016347137304173991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137da17f4839f4d30800000000000000
+      internalID: 4417911958764443441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a851c4ac69e37b0800000000000000
+      internalID: -5242587120608638347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00072ed26077ce2c0800000000000000
+      internalID: -4401011867424493568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 9
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6162af938b4914de0800000000000000
+      internalID: -1350634894266849770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_19
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 9
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd254f070fd8d9470800000000000000
+      internalID: 8403028543569941213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c7ba79996a9d110800000000000000
+      internalID: 1286242347195792511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999c15ccfd00ba720800000000000000
+      internalID: 2858379349702330777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_22
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea2b4db0068b320800000000000000
+      internalID: 2573912790971625190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_23
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 9
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3343e1ac9cf49e0800000000000000
+      internalID: -1634866269784886285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 9
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5cf86001e682fd0800000000000000
+      internalID: -2366520589074577998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_25
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 9
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1bce2ef39d22b80800000000000000
+      internalID: -8420929484816076324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 9
+        width: 75
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ecc0e62cb0eac40800000000000000
+      internalID: 5525366722528071265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0715a55cabea40800000000000000
+      internalID: 5398598062175620339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce0cf309142fd30800000000000000
+      internalID: 4463702268478286916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SantaDie_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e444912e3a4a6a0800000000000000
+      internalID: -6438841375751123314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SantaDie_0: 7035820011345183443
+      SantaDie_1: -5155230904790625959
+      SantaDie_10: -5131855131319596187
+      SantaDie_11: 1165704528323731437
+      SantaDie_12: 5478671728963697035
+      SantaDie_13: -8427056982232631794
+      SantaDie_14: 8016347137304173991
+      SantaDie_15: 4417911958764443441
+      SantaDie_16: -5242587120608638347
+      SantaDie_17: -4401011867424493568
+      SantaDie_18: -1350634894266849770
+      SantaDie_19: 8403028543569941213
+      SantaDie_2: 367316835133146962
+      SantaDie_20: 1286242347195792511
+      SantaDie_21: 2858379349702330777
+      SantaDie_22: 2573912790971625190
+      SantaDie_23: -1634866269784886285
+      SantaDie_24: -2366520589074577998
+      SantaDie_25: -8420929484816076324
+      SantaDie_26: 5525366722528071265
+      SantaDie_27: 5398598062175620339
+      SantaDie_28: 4463702268478286916
+      SantaDie_29: -6438841375751123314
+      SantaDie_3: -4142510631345991822
+      SantaDie_4: 8159753261666076060
+      SantaDie_5: -8630722200236100001
+      SantaDie_6: -6266103618162246559
+      SantaDie_7: 3237368057010272083
+      SantaDie_8: 3520170520350597967
+      SantaDie_9: 2462725785757040552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

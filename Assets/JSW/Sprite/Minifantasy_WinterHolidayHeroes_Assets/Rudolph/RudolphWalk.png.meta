@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: dfd0ed4968c8b2d49930e31376314378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2444779452790934974
+    second: RudolphWalk_0
+  - first:
+      213: -6652428471805648049
+    second: RudolphWalk_1
+  - first:
+      213: 8286371382161805739
+    second: RudolphWalk_2
+  - first:
+      213: 6706740616249316163
+    second: RudolphWalk_3
+  - first:
+      213: 4146319547572518965
+    second: RudolphWalk_4
+  - first:
+      213: -2249807550330085108
+    second: RudolphWalk_5
+  - first:
+      213: -2426927501812763686
+    second: RudolphWalk_6
+  - first:
+      213: -9194070518912610724
+    second: RudolphWalk_7
+  - first:
+      213: -1156178412766182577
+    second: RudolphWalk_8
+  - first:
+      213: 1275994840096376472
+    second: RudolphWalk_9
+  - first:
+      213: 7123145316262872771
+    second: RudolphWalk_10
+  - first:
+      213: 2995054031526715323
+    second: RudolphWalk_11
+  - first:
+      213: -4541368986618673309
+    second: RudolphWalk_12
+  - first:
+      213: -3757019059875907021
+    second: RudolphWalk_13
+  - first:
+      213: 6139354367716853901
+    second: RudolphWalk_14
+  - first:
+      213: -4569714408346128503
+    second: RudolphWalk_15
+  - first:
+      213: 9128861488614264933
+    second: RudolphWalk_16
+  - first:
+      213: 1005008969110090424
+    second: RudolphWalk_17
+  - first:
+      213: -8562484796871532271
+    second: RudolphWalk_18
+  - first:
+      213: 2357010698464248702
+    second: RudolphWalk_19
+  - first:
+      213: -4665601324681179866
+    second: RudolphWalk_20
+  - first:
+      213: 9108493340289943741
+    second: RudolphWalk_21
+  - first:
+      213: -4385065288573360580
+    second: RudolphWalk_22
+  - first:
+      213: 232039935732598613
+    second: RudolphWalk_23
+  - first:
+      213: 6807957795684954230
+    second: RudolphWalk_24
+  - first:
+      213: -573653005331388415
+    second: RudolphWalk_25
+  - first:
+      213: 236249898830984823
+    second: RudolphWalk_26
+  - first:
+      213: 2043862384710651976
+    second: RudolphWalk_27
+  - first:
+      213: -268642187058313150
+    second: RudolphWalk_28
+  - first:
+      213: -5817319151364028840
+    second: RudolphWalk_29
+  - first:
+      213: -5453688191698469745
+    second: RudolphWalk_30
+  - first:
+      213: -2161296489152809960
+    second: RudolphWalk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RudolphWalk_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f83a6a06621ed0800000000000000
+      internalID: -2444779452790934974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43645c0d83dda3a0800000000000000
+      internalID: -6652428471805648049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba197b67eda1ff270800000000000000
+      internalID: 8286371382161805739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34399308e01231d50800000000000000
+      internalID: 6706740616249316163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530815e09afaa8930800000000000000
+      internalID: 4146319547572518965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 108
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016595f3f317c0e0800000000000000
+      internalID: -2249807550330085108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f2d6ab42d15ed0800000000000000
+      internalID: -2426927501812763686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e82584399186080800000000000000
+      internalID: -9194070518912610724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43c81afbdd64ffe0800000000000000
+      internalID: -1156178412766182577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8960d2beb8e35b110800000000000000
+      internalID: 1275994840096376472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c60653dcee7ad260800000000000000
+      internalID: 7123145316262872771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf5040f5c1909920800000000000000
+      internalID: 2995054031526715323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3674e96c7f0d9f0c0800000000000000
+      internalID: -4541368986618673309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a79b112136cdbc0800000000000000
+      internalID: -3757019059875907021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 76
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88810e054e533550800000000000000
+      internalID: 6139354367716853901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 76
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6b8df4fc1590c0800000000000000
+      internalID: -4569714408346128503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d898382b30be70800000000000000
+      internalID: 9128861488614264933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b273e7255282fd00800000000000000
+      internalID: 1005008969110090424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112ac77171fb2980800000000000000
+      internalID: -8562484796871532271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73c1c50eb8c5b020800000000000000
+      internalID: 2357010698464248702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d49ca8054704fb0800000000000000
+      internalID: -4665601324681179866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84ef22f6ed76e70800000000000000
+      internalID: 9108493340289943741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 44
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3660b56a5e1523c0800000000000000
+      internalID: -4385065288573360580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557cb07971f583300800000000000000
+      internalID: 232039935732598613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67037a98b89ba7e50800000000000000
+      internalID: 6807957795684954230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10823e881a9f908f0800000000000000
+      internalID: -573653005331388415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776fa020804574300800000000000000
+      internalID: 236249898830984823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840167292024d5c10800000000000000
+      internalID: 2043862384710651976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24884bcaa57954cf0800000000000000
+      internalID: -268642187058313150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ced5ad0bb44fa0800000000000000
+      internalID: -5817319151364028840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf11a0c7b9054b0800000000000000
+      internalID: -5453688191698469745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RudolphWalk_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 12
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8147fbd4b488102e0800000000000000
+      internalID: -2161296489152809960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RudolphWalk_0: -2444779452790934974
+      RudolphWalk_1: -6652428471805648049
+      RudolphWalk_10: 7123145316262872771
+      RudolphWalk_11: 2995054031526715323
+      RudolphWalk_12: -4541368986618673309
+      RudolphWalk_13: -3757019059875907021
+      RudolphWalk_14: 6139354367716853901
+      RudolphWalk_15: -4569714408346128503
+      RudolphWalk_16: 9128861488614264933
+      RudolphWalk_17: 1005008969110090424
+      RudolphWalk_18: -8562484796871532271
+      RudolphWalk_19: 2357010698464248702
+      RudolphWalk_2: 8286371382161805739
+      RudolphWalk_20: -4665601324681179866
+      RudolphWalk_21: 9108493340289943741
+      RudolphWalk_22: -4385065288573360580
+      RudolphWalk_23: 232039935732598613
+      RudolphWalk_24: 6807957795684954230
+      RudolphWalk_25: -573653005331388415
+      RudolphWalk_26: 236249898830984823
+      RudolphWalk_27: 2043862384710651976
+      RudolphWalk_28: -268642187058313150
+      RudolphWalk_29: -5817319151364028840
+      RudolphWalk_3: 6706740616249316163
+      RudolphWalk_30: -5453688191698469745
+      RudolphWalk_31: -2161296489152809960
+      RudolphWalk_4: 4146319547572518965
+      RudolphWalk_5: -2249807550330085108
+      RudolphWalk_6: -2426927501812763686
+      RudolphWalk_7: -9194070518912610724
+      RudolphWalk_8: -1156178412766182577
+      RudolphWalk_9: 1275994840096376472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

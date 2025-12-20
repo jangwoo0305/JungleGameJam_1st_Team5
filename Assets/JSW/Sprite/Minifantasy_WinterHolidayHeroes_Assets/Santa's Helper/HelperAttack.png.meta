@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e7286a4ddc1ad0146af0f0b84c56289c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7156256295532571838
+    second: HelperAttack_0
+  - first:
+      213: 36302594369873426
+    second: HelperAttack_1
+  - first:
+      213: 7461025896569369481
+    second: HelperAttack_2
+  - first:
+      213: 1357845115629051910
+    second: HelperAttack_3
+  - first:
+      213: -8958673740630432416
+    second: HelperAttack_4
+  - first:
+      213: 972852111380641114
+    second: HelperAttack_5
+  - first:
+      213: -3823650886037985809
+    second: HelperAttack_6
+  - first:
+      213: 6956882951152413591
+    second: HelperAttack_7
+  - first:
+      213: 798030920732454414
+    second: HelperAttack_8
+  - first:
+      213: 6061472566470778732
+    second: HelperAttack_9
+  - first:
+      213: 615298841025458983
+    second: HelperAttack_10
+  - first:
+      213: 2738665101279281109
+    second: HelperAttack_11
+  - first:
+      213: -372334517521225692
+    second: HelperAttack_12
+  - first:
+      213: -8337071388678375784
+    second: HelperAttack_13
+  - first:
+      213: 3504062355540515449
+    second: HelperAttack_14
+  - first:
+      213: 5463361942165807103
+    second: HelperAttack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelperAttack_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc2fd07f21205360800000000000000
+      internalID: 7156256295532571838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 106
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21667d96409f08000800000000000000
+      internalID: 36302594369873426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f101d583ea8760800000000000000
+      internalID: 7461025896569369481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 102
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600a11140f808d210800000000000000
+      internalID: 1357845115629051910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0656a1fa2b56ca380800000000000000
+      internalID: -8958673740630432416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 74
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f4d547d3408d00800000000000000
+      internalID: 972852111380641114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5299817c9afeac0800000000000000
+      internalID: -3823650886037985809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b29675f20db8060800000000000000
+      internalID: 6956882951152413591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e290ee4ec231b00800000000000000
+      internalID: 798030920732454414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f14442f2dae1450800000000000000
+      internalID: 6061472566470778732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7233802390bf98800800000000000000
+      internalID: 615298841025458983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb2884661b10620800000000000000
+      internalID: 2738665101279281109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e781aab335daf0800000000000000
+      internalID: -372334517521225692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896b0c26eb5cc4c80800000000000000
+      internalID: -8337071388678375784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a9fc4a52ee0a030800000000000000
+      internalID: 3504062355540515449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelperAttack_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5e228db2c1db40800000000000000
+      internalID: 5463361942165807103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HelperAttack_0: 7156256295532571838
+      HelperAttack_1: 36302594369873426
+      HelperAttack_10: 615298841025458983
+      HelperAttack_11: 2738665101279281109
+      HelperAttack_12: -372334517521225692
+      HelperAttack_13: -8337071388678375784
+      HelperAttack_14: 3504062355540515449
+      HelperAttack_15: 5463361942165807103
+      HelperAttack_2: 7461025896569369481
+      HelperAttack_3: 1357845115629051910
+      HelperAttack_4: -8958673740630432416
+      HelperAttack_5: 972852111380641114
+      HelperAttack_6: -3823650886037985809
+      HelperAttack_7: 6956882951152413591
+      HelperAttack_8: 798030920732454414
+      HelperAttack_9: 6061472566470778732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

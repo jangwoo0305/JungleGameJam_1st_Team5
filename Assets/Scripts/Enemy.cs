@@ -1,20 +1,27 @@
+using System;
 using UnityEngine;
 using UnityEngine.AI;
 using Random = UnityEngine.Random;
 
+
 public class Enemy : MonoBehaviour
 {
+    
     NavMeshAgent _agent;
     [SerializeField] float moveRange = 5f; // 이동할 수 있는 랜덤 범위
     
     Vector2 _lookDir = Vector2.up;
     public FieldOfView fov;
+    Animator anim;
+    SpriteRenderer spriter;
     
     void Awake()
     {
         _agent = GetComponent<NavMeshAgent>();
         _agent.updateRotation = false;
         _agent.updateUpAxis = false;
+        anim =  GetComponent<Animator>();
+        spriter = GetComponent<SpriteRenderer>();
     }
 
     private void Update()
@@ -26,6 +33,14 @@ public class Enemy : MonoBehaviour
         }
         
         UpdateLookDirection();
+    }
+
+    private void LateUpdate()
+    {
+        if (_agent.velocity.x != 0)
+        {
+            spriter.flipX = _agent.velocity.x < 0;
+        }
     }
 
     Vector3 MakeDestination()

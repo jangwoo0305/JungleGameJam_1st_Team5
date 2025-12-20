@@ -1,4 +1,7 @@
 using UnityEngine;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 [RequireComponent(typeof(MeshFilter))]
 [RequireComponent(typeof(MeshRenderer))]
@@ -20,6 +23,8 @@ public class FieldOfView : MonoBehaviour
         mesh = new Mesh();
         mesh.name = "FOV_Mesh";
         GetComponent<MeshFilter>().mesh = mesh;
+
+        GetComponent<MeshRenderer>().sortingOrder = 5;
     }
 
     void LateUpdate()
@@ -49,6 +54,8 @@ public class FieldOfView : MonoBehaviour
         int triangleIndex = 0;
         float startAngle = GetAngleFromVector(lookDir) + halfFOV;
 
+        Vector2 origin = GetFOVOrigin() + lookDir * 0.05f;
+
         for (int i = 0; i <= rayCount; i++)
         {
             float angle = startAngle - angleStep * i;
@@ -75,33 +82,37 @@ public class FieldOfView : MonoBehaviour
         mesh.RecalculateBounds();
     }
 
-    // 🔹 FOV 내 Player 감지
+    // 🔹 FOV 내 Player 감지 (DrawFOV mesh와 동일한 rayCount 방식)
     void CheckForTargets()
     {
-        Vector2 origin = transform.position;
-        Collider2D[] hits = Physics2D.OverlapCircleAll(origin, viewDistance, targetLayerMask);
-
+        Vector2 origin = GetFOVOrigin();
         float halfFOV = fov * 0.5f;
-        float centerAngle = GetAngleFromVector(lookDir);
+        float angleStep = fov / rayCount;
+        float startAngle = GetAngleFromVector(lookDir) + halfFOV;
 
-        foreach (var hit in hits)
+        for (int i = 0; i <= rayCount; i++)
         {
-            // Player 태그 확인
-            if (!hit.CompareTag(targetTag)) continue;
+            float angle = startAngle - angleStep * i;
+            Vector2 dir = GetVectorFromAngle(angle);
 
-            Vector2 toTarget = (Vector2)hit.transform.position - origin;
-            float angleToTarget = GetAngleFromVector(toTarget);
-            float angleDiff = Mathf.Abs(Mathf.DeltaAngle(centerAngle, angleToTarget));
+            // 1️⃣ 먼저 wall 체크
+            RaycastHit2D wallHit =
+                Physics2D.Raycast(origin, dir, viewDistance, wallLayerMask);
 
-            if (angleDiff > halfFOV) continue; // FOV 범위 밖
+            float maxDistance = wallHit.collider != null
+                ? wallHit.distance
+                : viewDistance;
 
-            // 벽 체크
-            RaycastHit2D wallHit = Physics2D.Raycast(origin, toTarget.normalized, toTarget.magnitude, wallLayerMask);
-            if (wallHit.collider != null) continue; // 벽 뒤에 있음
+            // 2️⃣ wall 앞까지만 Player 체크
+            RaycastHit2D playerHit =
+                Physics2D.Raycast(origin, dir, maxDistance, targetLayerMask);
 
-            // FOV 범위 안 + 벽 뚫리지 않음 → 게임 종료
-            EndGame();
-            return;
+            if (playerHit.collider != null &&
+                playerHit.collider.CompareTag(targetTag))
+            {
+                EndGame();
+                return;
+            }
         }
     }
 

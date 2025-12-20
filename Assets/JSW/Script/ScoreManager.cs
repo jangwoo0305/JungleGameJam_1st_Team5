@@ -51,6 +51,12 @@ public class ScoreManager : MonoBehaviour
 
         // Á¡¼ö º¯°æ ¾Ë¸² (UI ¾÷µ¥ÀÌÆ® µî)
         UpdateScoreUI();
+
+        // TimerManagerì— ì„ ë¬¼ ë°°ë‹¬ ì„±ê³µ ì•Œë¦¼
+        if (TimerManager.Instance != null)
+        {
+            TimerManager.Instance.CheckWinCondition();
+        }
     }
 
     // Á¡¼ö ÃÊ±âÈ­ (°ÔÀÓ Àç½ÃÀÛ ½Ã µî)

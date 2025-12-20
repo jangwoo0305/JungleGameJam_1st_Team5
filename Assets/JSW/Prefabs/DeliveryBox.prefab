@@ -101,3 +101,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotateSpeed: 1440
+  spriteArray:
+  - {fileID: 2616271140421873840, guid: 195db51b5c6b644b1a505f39e9d73bb0, type: 3}
+  - {fileID: 2074131032069657448, guid: 1f99adf64469a41b9b7a49d6a40ac242, type: 3}
+  - {fileID: 8862547545159352364, guid: b414c6a2be16c4e6ca94b7d64e594ced, type: 3}
+  - {fileID: 5117573376070710608, guid: 0bae9d3a6c6574f559c206042c21c78a, type: 3}

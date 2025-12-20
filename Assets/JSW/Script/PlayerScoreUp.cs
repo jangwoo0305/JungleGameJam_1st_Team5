@@ -6,6 +6,8 @@ public class PlayerScoreUp : MonoBehaviour
     private GameObject nearObject;
     [SerializeField]
     private GameObject ThrowBox;
+    [SerializeField]
+    private GameObject funKeyUI;
 
     void Update()
     {
@@ -22,6 +24,7 @@ public class PlayerScoreUp : MonoBehaviour
                 GameObject throwBoxing = Instantiate(ThrowBox);
                 throwBoxing.GetComponent<DeliveryBox>().FlyToTarget(transform.position, houseScript.transform.position, 0.6f);
                 houseScript.ScoreUp();
+                funKeyUI.SetActive(false);
             }
         }
     }
@@ -32,7 +35,11 @@ public class PlayerScoreUp : MonoBehaviour
         if (other.CompareTag("House")) // 태그 확인
         {
             nearObject = other.gameObject;
-            Debug.Log("집 발견! F키를 눌러 획득하세요.");
+
+            if (HouseManager.Instance.nowTargetHouse == nearObject.GetComponent<House>())
+            {
+                funKeyUI.SetActive(true);
+            }
         }
     }
 
@@ -44,6 +51,7 @@ public class PlayerScoreUp : MonoBehaviour
             // 내가 지금 보고 있던 그 아이템이 맞는지 확인 후 해제
             if (nearObject == other.gameObject)
             {
+                funKeyUI.SetActive(false);
                 nearObject = null;
             }
         }

@@ -27,7 +27,6 @@ public class Spawner : MonoBehaviour
     int _curSnowCount = 0;
     
     public Tilemap groundTilemap;
-    public Transform spawnParent;
     
     void Start()
     {
@@ -78,7 +77,7 @@ public class Spawner : MonoBehaviour
             NavMeshHit hit;
             if (NavMesh.SamplePosition(spawnPos, out hit, 2f, NavMesh.AllAreas))
             {
-                Instantiate(snowPrefab, hit.position, Quaternion.identity, spawnParent);
+                Instantiate(snowPrefab, hit.position, Quaternion.identity, transform);
                 _curSnowCount++;
                 return;
             }
@@ -94,7 +93,7 @@ public class Spawner : MonoBehaviour
         
             if (NavMesh.SamplePosition(spawnPos, out hit, 10f, NavMesh.AllAreas))
             {
-                Instantiate(enemyPrefab, hit.position, Quaternion.identity, spawnParent);
+                Instantiate(enemyPrefab, hit.position, Quaternion.identity, transform);
                 _curSpawnCount++;
                 return;
             }

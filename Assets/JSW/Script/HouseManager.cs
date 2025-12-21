@@ -32,6 +32,7 @@ public class HouseManager : MonoBehaviour
         var housesArray = FindObjectsByType<House>(FindObjectsSortMode.None);
         rotationArrow = FindAnyObjectByType<RotationArrow>(); ;
 
+        ScoreManager.Instance.ResetScore();
         // (Unity 2022 이하 구버전인 경우 아래 코드 사용)
         // var housesArray = FindObjectsOfType<House>();
 

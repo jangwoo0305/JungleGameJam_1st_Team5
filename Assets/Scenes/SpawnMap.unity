@@ -744,6 +744,38 @@ MonoBehaviour:
   spawnSnowSec: 10
   maxSnowCount: 20
   groundTilemap: {fileID: 1628333929}
+  spawnParent: {fileID: 1283068099}
+--- !u!1 &1283068098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1283068099}
+  m_Layer: 0
+  m_Name: Spawn Objects
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1283068099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1283068098}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.310762, y: 7.454759, z: -0.29675803}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1326914460
 GameObject:
   m_ObjectHideFlags: 0
@@ -26112,7 +26144,7 @@ MonoBehaviour:
   m_BuildHeightMesh: 0
   m_MinRegionArea: 0
   m_HideEditorLogs: 0
-  m_NavMeshData: {fileID: 23800000, guid: 1f02042c1973c4aa0bec2144d4e89b1e, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: 9f27a5a9e52b34ce6880630d7cc0c649, type: 2}
 --- !u!4 &1711224268
 Transform:
   m_ObjectHideFlags: 0
@@ -26196,3 +26228,4 @@ SceneRoots:
   - {fileID: 1326914461}
   - {fileID: 916723118}
   - {fileID: 7725028354382989329}
+  - {fileID: 1283068099}

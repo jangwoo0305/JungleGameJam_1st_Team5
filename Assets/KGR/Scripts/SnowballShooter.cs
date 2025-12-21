@@ -139,7 +139,8 @@ public class SnowballShooter : MonoBehaviour
     {
         currentSnowballs = Mathf.Min(currentSnowballs + amount, maxSnowballs);
         Debug.Log($"눈덩이 획득! 현재 개수: {currentSnowballs}");
-        
+
+        snowText.text = currentSnowballs.ToString();
         // TODO: UI 업데이트
     }
     

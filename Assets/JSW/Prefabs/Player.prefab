@@ -651,7 +651,6 @@ GameObject:
   - component: {fileID: 2456128111181798155}
   - component: {fileID: 1540170596482251763}
   - component: {fileID: 6744100360884919537}
-  - component: {fileID: 4589801034206514160}
   - component: {fileID: 3556322892991841077}
   m_Layer: 3
   m_Name: Player
@@ -670,7 +669,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.7497545, y: -0.18659213, z: -0.007378104}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5494146157912128342}
@@ -749,6 +748,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2453143164d1a5f4f846c0a61314dcbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nearObject: {fileID: 0}
   ThrowBox: {fileID: 6674489507050994939, guid: e452960b07dead94bb05b9b9d5a07a2f, type: 3}
   funKeyUI: {fileID: 7615682900825337535}
 --- !u!50 &1540170596482251763
@@ -824,23 +824,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &4589801034206514160
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8552565993599539346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5475e4de7011e46cf8e979a4281e483a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  snowballPrefab: {fileID: 0}
-  snowballSpeed: 40
-  snowballRange: 20
-  snowballArea: 0.5
-  maxSnowballs: 10
 --- !u!114 &3556322892991841077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -853,11 +836,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5475e4de7011e46cf8e979a4281e483a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  snowballPrefab: {fileID: 0}
+  snowballPrefab: {fileID: 17280682901275526, guid: 895c58334b3db3849a20d64fa6966cc2, type: 3}
   snowballSpeed: 40
   snowballRange: 20
   snowballArea: 0.5
   maxSnowballs: 10
+  snowText: {fileID: 0}
 --- !u!1001 &1235677462646456624
 PrefabInstance:
   m_ObjectHideFlags: 0

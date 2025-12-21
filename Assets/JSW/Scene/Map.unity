@@ -1316,9 +1316,29 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8336883524680309018, guid: b8659479b0ec24ef09c458a9c8d16eab, type: 3}
+      propertyPath: spawnSec
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336883524680309018, guid: b8659479b0ec24ef09c458a9c8d16eab, type: 3}
+      propertyPath: maxSnowCount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336883524680309018, guid: b8659479b0ec24ef09c458a9c8d16eab, type: 3}
+      propertyPath: spawnSnowSec
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336883524680309018, guid: b8659479b0ec24ef09c458a9c8d16eab, type: 3}
       propertyPath: groundTilemap
       value: 
       objectReference: {fileID: 1489653289}
+    - target: {fileID: 8336883524680309018, guid: b8659479b0ec24ef09c458a9c8d16eab, type: 3}
+      propertyPath: maxSpawnCount
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 8336883524680309018, guid: b8659479b0ec24ef09c458a9c8d16eab, type: 3}
+      propertyPath: spawnCountOnStart
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

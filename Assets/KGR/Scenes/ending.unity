@@ -857,7 +857,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2147000439}
         m_TargetAssemblyTypeName: GameSceneManager, Assembly-CSharp
-        m_MethodName: backHome
+        m_MethodName: BackHome
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
